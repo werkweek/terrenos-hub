@@ -8,6 +8,8 @@ import subprocess
 import urllib.request
 import websocket
 import openpyxl
+from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+
 try:
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
     sys.stderr.reconfigure(encoding='utf-8', errors='replace')
