@@ -28,11 +28,25 @@ export function parseDateSafe(dateVal) {
 
   // Fallback default: baseline date if text is generic like 'Activo / Publicación Reciente'
   if (str.toLowerCase().includes('reciente') || str.toLowerCase().includes('activo')) {
-    // Initial batch baseline
     return new Date(2026, 8, 26); // 26 Sep 2026
   }
 
   return null;
+}
+
+export function getDaysCount(dateVal) {
+  const d = parseDateSafe(dateVal);
+  if (!d) return 0;
+  const now = new Date();
+  const startOfDayNow = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const startOfDayTarget = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  const diffMs = startOfDayNow.getTime() - startOfDayTarget.getTime();
+  return Math.max(0, Math.floor(diffMs / (1000 * 60 * 60 * 24)));
+}
+
+export function getTimestamp(dateVal) {
+  const d = parseDateSafe(dateVal);
+  return d ? d.getTime() : 0;
 }
 
 export function getDaysAgo(dateVal) {
@@ -46,14 +60,7 @@ export function getDaysAgo(dateVal) {
     };
   }
 
-  const now = new Date();
-  // Normalize both dates to midnight local time for accurate day count
-  const startOfDayNow = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-  const startOfDayTarget = new Date(d.getFullYear(), d.getMonth(), d.getDate());
-
-  const diffMs = startOfDayNow.getTime() - startOfDayTarget.getTime();
-  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-
+  const diffDays = getDaysCount(dateVal);
   const options = { year: 'numeric', month: 'short', day: 'numeric' };
   const formattedFull = d.toLocaleDateString('es-MX', options);
 

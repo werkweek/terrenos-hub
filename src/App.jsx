@@ -11,6 +11,7 @@ import ExcelImportModal from './components/ExcelImportModal';
 import Login from './components/Login';
 import { exportToExcel } from './utils/excelHelper';
 import { getActiveSession, clearSession } from './utils/auth';
+import { getDaysCount, getTimestamp } from './utils/dateHelper';
 
 const STORAGE_KEY = 'terrenos_db_v3';
 
@@ -34,7 +35,8 @@ export default function App() {
   const [isModified, setIsModified] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedCity, setSelectedCity] = useState('all');
-  const [sortBy, setSortBy] = useState('meters_desc');
+  const [selectedAge, setSelectedAge] = useState('all'); // 'all', 'today', '2days', 'week', '15days', 'month', 'older30'
+  const [sortBy, setSortBy] = useState('date_desc'); // default to most recent first
   const [viewMode, setViewMode] = useState('table'); // 'table' | 'cards' | 'map'
   const [isImportModalOpen, setIsImportModalOpen] = useState(false);
   const [selectedTerrenoForModal, setSelectedTerrenoForModal] = useState(null);
@@ -60,6 +62,14 @@ export default function App() {
     return Array.from(set);
   }, [terrenos]);
 
+  // Reset all active filters
+  const handleResetFilters = () => {
+    setSearchQuery('');
+    setSelectedCity('all');
+    setSelectedAge('all');
+    setSortBy('date_desc');
+  };
+
   // Filter and Sort Data
   const filteredTerrenos = useMemo(() => {
     let result = [...terrenos];
@@ -69,7 +79,21 @@ export default function App() {
       result = result.filter(t => t.city?.toLowerCase() === selectedCity.toLowerCase());
     }
 
-    // Search Query (title, location, description, id)
+    // Age / Antigüedad Filter
+    if (selectedAge !== 'all') {
+      result = result.filter(t => {
+        const days = getDaysCount(t.date || t.created_at);
+        if (selectedAge === 'today') return days === 0;
+        if (selectedAge === '2days') return days <= 2;
+        if (selectedAge === 'week') return days <= 7;
+        if (selectedAge === '15days') return days <= 15;
+        if (selectedAge === 'month') return days <= 30;
+        if (selectedAge === 'older30') return days > 30;
+        return true;
+      });
+    }
+
+    // Search Query (title, location, description, id, notes)
     if (searchQuery.trim()) {
       const q = searchQuery.toLowerCase().trim();
       result = result.filter(t => 
@@ -83,6 +107,12 @@ export default function App() {
 
     // Sorting
     result.sort((a, b) => {
+      if (sortBy === 'date_desc') {
+        return getTimestamp(b.date || b.created_at) - getTimestamp(a.date || a.created_at);
+      }
+      if (sortBy === 'date_asc') {
+        return getTimestamp(a.date || a.created_at) - getTimestamp(b.date || b.created_at);
+      }
       if (sortBy === 'price_asc') {
         if (!a.price) return 1;
         if (!b.price) return -1;
@@ -111,7 +141,7 @@ export default function App() {
     });
 
     return result;
-  }, [terrenos, selectedCity, searchQuery, sortBy]);
+  }, [terrenos, selectedCity, selectedAge, searchQuery, sortBy]);
 
   // Handler to save single updated terreno
   const handleSaveTerreno = (updatedItem) => {
@@ -138,25 +168,25 @@ export default function App() {
 
   // Handler to export current view to Excel
   const handleExportExcel = () => {
-    exportToExcel(filteredTerrenos, `Terrenos_${selectedCity !== 'all' ? selectedCity : 'Chihuahua_Delicias_Aldama'}.xlsx`);
+    exportToExcel(filteredTerrenos, `Terrenos_${selectedCity}_${Date.now()}.xlsx`);
   };
 
-  // Handler to reset dataset
+  // Handler to reset data back to clean factory dataset
   const handleResetData = () => {
-    if (window.confirm('¿Seguro que deseas restablecer los datos originales? Se perderán las coordenadas y notas manuales no exportadas.')) {
-      localStorage.removeItem(STORAGE_KEY);
+    if (window.confirm('¿Deseas restablecer todos los terrenos al estado original sincronizado? Se perderán las coordenadas y notas que no hayas exportado.')) {
       setTerrenos(initialTerrenos);
+      localStorage.removeItem(STORAGE_KEY);
+      handleResetFilters();
       setIsModified(false);
     }
   };
 
-  // If user is not authenticated, show Login Wall
   if (!currentUser) {
-    return <Login onLoginSuccess={(session) => setCurrentUser(session)} />;
+    return <Login onLoginSuccess={(user) => setCurrentUser(user)} />;
   }
 
   return (
-    <div className="app-container">
+    <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
       {/* Navbar */}
       <Navbar
         totalCount={terrenos.length}
@@ -181,10 +211,13 @@ export default function App() {
         selectedCity={selectedCity}
         setSelectedCity={setSelectedCity}
         cities={cities}
+        selectedAge={selectedAge}
+        setSelectedAge={setSelectedAge}
         sortBy={sortBy}
         setSortBy={setSortBy}
         viewMode={viewMode}
         setViewMode={setViewMode}
+        onResetFilters={handleResetFilters}
       />
 
       {/* Main View Display */}
@@ -222,7 +255,7 @@ export default function App() {
       {isImportModalOpen && (
         <ExcelImportModal
           onClose={() => setIsImportModalOpen(false)}
-          onImportData={handleImportData}
+          onImport={handleImportData}
         />
       )}
     </div>
