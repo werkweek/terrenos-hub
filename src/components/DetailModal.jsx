@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { X, Save, MapPin, Check, FileText } from 'lucide-react';
+import { X, Save, MapPin, Check, FileText, Clock } from 'lucide-react';
 import FacebookIcon from './FacebookIcon';
+import { getDaysAgo } from '../utils/dateHelper';
 
 export default function DetailModal({ terreno, onClose, onSave }) {
   const [lat, setLat] = useState('');
@@ -25,6 +26,8 @@ export default function DetailModal({ terreno, onClose, onSave }) {
   }, [terreno]);
 
   if (!terreno) return null;
+
+  const dateInfo = getDaysAgo(terreno.date || terreno.created_at);
 
   const handleSave = (e) => {
     e.preventDefault();
@@ -66,6 +69,9 @@ export default function DetailModal({ terreno, onClose, onSave }) {
             <span className="badge badge-city">{terreno.city}</span>
             <span style={{ fontSize: '0.8rem', fontFamily: 'monospace', color: 'var(--text-muted)' }}>
               {terreno.id}
+            </span>
+            <span className={`badge ${dateInfo.badgeClass}`} title={dateInfo.fullDate} style={{ fontSize: '0.75rem', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+              <Clock size={12} /> {dateInfo.text}
             </span>
           </div>
           <button

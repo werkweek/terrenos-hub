@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import { Edit3, MapPin, CheckCircle2, AlertCircle, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Edit3, MapPin, CheckCircle2, AlertCircle, ChevronLeft, ChevronRight, Clock } from 'lucide-react';
 import FacebookIcon from './FacebookIcon';
+import { getDaysAgo } from '../utils/dateHelper';
 
 export default function TableView({ terrenos, onSelectTerreno }) {
   const [currentPage, setCurrentPage] = useState(1);
@@ -33,11 +34,16 @@ export default function TableView({ terrenos, onSelectTerreno }) {
           <thead>
             <tr>
               <th style={{ width: '80px' }}>ID</th>
-              <th style={{ width: '60px', textAlign: 'center' }}>
+              <th style={{ width: '55px', textAlign: 'center' }}>
                 <FacebookIcon size={16} color="#1877F2" />
               </th>
               <th style={{ width: '110px' }}>Ciudad</th>
               <th>Propiedad / Título</th>
+              <th style={{ width: '115px', textAlign: 'center' }}>
+                <span style={{ display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+                  <Clock size={13} style={{ color: 'var(--gold)' }} /> Antigüedad
+                </span>
+              </th>
               <th style={{ textAlign: 'right', width: '130px' }}>Superficie</th>
               <th style={{ textAlign: 'right', width: '140px' }}>Precio ($ MXN)</th>
               <th style={{ textAlign: 'right', width: '130px' }}>Precio / m²</th>
@@ -110,6 +116,27 @@ export default function TableView({ terrenos, onSelectTerreno }) {
                     }} title={item.title}>
                       {item.title}
                     </div>
+                  </td>
+
+                  {/* Col: Antiguedad / Dias */}
+                  <td style={{ textAlign: 'center' }}>
+                    {(() => {
+                      const info = getDaysAgo(item.date || item.created_at);
+                      return (
+                        <span
+                          className={`badge ${info.badgeClass}`}
+                          title={info.fullDate}
+                          style={{
+                            fontSize: '0.74rem',
+                            fontWeight: info.days <= 1 ? '700' : '500',
+                            cursor: 'help',
+                            whiteSpace: 'nowrap'
+                          }}
+                        >
+                          {info.text}
+                        </span>
+                      );
+                    })()}
                   </td>
 
                   {/* Col 5: Superficie */}

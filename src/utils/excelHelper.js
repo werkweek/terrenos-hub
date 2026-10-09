@@ -1,4 +1,5 @@
 import * as XLSX from 'xlsx';
+import { getDaysAgo } from './dateHelper';
 
 /**
  * Parse an Excel file (.xlsx, .xls) into normalized Terrenos items
@@ -89,22 +90,26 @@ export async function parseExcelFile(file) {
  * Export current list of terrains to an Excel file (.xlsx)
  */
 export function exportToExcel(terrenos, filename = 'Terrenos_Actualizados.xlsx') {
-  const exportData = terrenos.map(t => ({
-    'ID': t.id,
-    'Ciudad / Municipio': t.city,
-    'Título de la Propiedad': t.title,
-    'Superficie (m²)': t.meters,
-    'Precio ($ MXN)': t.price,
-    'Precio por m² ($)': t.price_per_m2,
-    'Ubicación / Zona': t.location_card,
-    'Latitud': t.coordinates ? t.coordinates[0] : '',
-    'Longitud': t.coordinates ? t.coordinates[1] : '',
-    'Estado': t.status || 'Disponible',
-    'Fecha de Publicación': t.date,
-    'Enlace Facebook / Web': t.url,
-    'Notas Manuales': t.notes || '',
-    'Descripción': t.description
-  }));
+  const exportData = terrenos.map(t => {
+    const dateInfo = getDaysAgo(t.date || t.created_at);
+    return {
+      'ID': t.id,
+      'Ciudad / Municipio': t.city,
+      'Título de la Propiedad': t.title,
+      'Antigüedad': dateInfo.text,
+      'Fecha Registro': t.date || dateInfo.fullDate,
+      'Superficie (m²)': t.meters,
+      'Precio ($ MXN)': t.price,
+      'Precio por m² ($)': t.price_per_m2,
+      'Ubicación / Zona': t.location_card,
+      'Latitud': t.coordinates ? t.coordinates[0] : '',
+      'Longitud': t.coordinates ? t.coordinates[1] : '',
+      'Estado': t.status || 'Disponible',
+      'Enlace Facebook / Web': t.url,
+      'Notas Manuales': t.notes || '',
+      'Descripción': t.description
+    };
+  });
 
   const worksheet = XLSX.utils.json_to_sheet(exportData);
   const workbook = XLSX.utils.book_new();

@@ -1,6 +1,7 @@
 import React from 'react';
-import { Edit3, MapPin, Maximize2, Calendar } from 'lucide-react';
+import { Edit3, MapPin, Maximize2, Calendar, Clock } from 'lucide-react';
 import FacebookIcon from './FacebookIcon';
+import { getDaysAgo } from '../utils/dateHelper';
 
 export default function CardView({ terrenos, onSelectTerreno }) {
   if (terrenos.length === 0) {
@@ -17,12 +18,18 @@ export default function CardView({ terrenos, onSelectTerreno }) {
     <div className="cards-grid">
       {terrenos.map((item) => {
         const hasCoords = item.coordinates && item.coordinates.length === 2;
+        const dateInfo = getDaysAgo(item.date || item.created_at);
         return (
           <div key={item.id} className="property-card">
-            {/* Header: City & ID */}
+            {/* Header: City, Days Ago & ID */}
             <div>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px' }}>
-                <span className="badge badge-city">{item.city}</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  <span className="badge badge-city">{item.city}</span>
+                  <span className={`badge ${dateInfo.badgeClass}`} title={dateInfo.fullDate} style={{ fontSize: '0.72rem' }}>
+                    {dateInfo.text}
+                  </span>
+                </div>
                 <span style={{ fontSize: '0.75rem', fontFamily: 'monospace', color: 'var(--text-muted)' }}>
                   {item.id}
                 </span>
