@@ -26,27 +26,27 @@ LOG_PATH = os.path.join(PROJECT_DIR, "sync_execution.log")
 REGIONS = [
     {
         "city": "Chihuahua",
-        "mkt_url": "https://www.facebook.com/marketplace/chihuahua/search/?query=terreno",
+        "mkt_url": "https://www.facebook.com/marketplace/chihuahua/search/?query=terreno&sortBy=creation_time_descend",
         "search_url": "https://www.facebook.com/search/posts/?q=terreno%20venta%20chihuahua"
     },
     {
         "city": "Aldama",
-        "mkt_url": "https://www.facebook.com/marketplace/search/?query=terreno%20aldama",
+        "mkt_url": "https://www.facebook.com/marketplace/search/?query=terreno%20aldama&sortBy=creation_time_descend",
         "search_url": "https://www.facebook.com/search/posts/?q=terreno%20aldama%20chihuahua%20venta"
     },
     {
         "city": "Delicias",
-        "mkt_url": "https://www.facebook.com/marketplace/delicias/search/?query=terreno",
+        "mkt_url": "https://www.facebook.com/marketplace/delicias/search/?query=terreno&sortBy=creation_time_descend",
         "search_url": "https://www.facebook.com/search/posts/?q=terreno%20delicias%20chihuahua%20venta"
     },
     {
         "city": "Meoqui",
-        "mkt_url": "https://www.facebook.com/marketplace/search/?query=terreno%20meoqui",
+        "mkt_url": "https://www.facebook.com/marketplace/search/?query=terreno%20meoqui&sortBy=creation_time_descend",
         "search_url": "https://www.facebook.com/search/posts/?q=terreno%20meoqui%20venta"
     },
     {
         "city": "Aquiles Serdán / Sta. Eulalia",
-        "mkt_url": "https://www.facebook.com/marketplace/search/?query=terreno%20aquiles%20serdan",
+        "mkt_url": "https://www.facebook.com/marketplace/search/?query=terreno%20aquiles%20serdan&sortBy=creation_time_descend",
         "search_url": "https://www.facebook.com/search/posts/?q=terreno%20aquiles%20serdan%20santa%20eulalia"
     }
 ]
