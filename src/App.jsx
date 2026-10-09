@@ -13,7 +13,7 @@ import { exportToExcel } from './utils/excelHelper';
 import { getActiveSession, clearSession } from './utils/auth';
 import { getDaysCount, getTimestamp } from './utils/dateHelper';
 
-const STORAGE_KEY = 'terrenos_db_v3';
+const STORAGE_KEY = 'terrenos_db_v4';
 
 export default function App() {
   // Authentication state
