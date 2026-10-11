@@ -263,13 +263,13 @@ def run_sync(force=False):
                     cdp.evaluate("window.scrollBy(0, 1500);")
                     time.sleep(1.0)
 
-                items = cdp.evaluate("""() => {
+                items = cdp.evaluate("""(() => {
                     const links = Array.from(document.querySelectorAll('a[href*="/marketplace/item/"]'));
                     return links.map(a => ({
                         href: a.href,
                         text: a.innerText || ''
                     }));
-                }""") or []
+                })()""") or []
 
                 for it in items:
                     raw_href = it.get("href", "").split("?")[0]
