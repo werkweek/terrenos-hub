@@ -13,18 +13,32 @@ import { exportToExcel } from './utils/excelHelper';
 import { getActiveSession, clearSession } from './utils/auth';
 import { getDaysCount, getTimestamp } from './utils/dateHelper';
 
-const STORAGE_KEY = 'terrenos_db_v4';
+const STORAGE_KEY = 'terrenos_db_v5';
 
 export default function App() {
   // Authentication state
   const [currentUser, setCurrentUser] = useState(() => getActiveSession());
 
-  // Initialize from LocalStorage if available, else initial data
+  // Initialize with auto-merge between factory dataset and localStorage
   const [terrenos, setTerrenos] = useState(() => {
     try {
+      // Purge obsolete cache keys
+      ['terrenos_db_v1', 'terrenos_db_v2', 'terrenos_db_v3', 'terrenos_db_v4'].forEach((k) => {
+        try { localStorage.removeItem(k); } catch (e) {}
+      });
+
       const saved = localStorage.getItem(STORAGE_KEY);
       if (saved) {
-        return JSON.parse(saved);
+        const parsed = JSON.parse(saved);
+        if (Array.isArray(parsed) && parsed.length > 0) {
+          // Always merge any fresh listings from initialTerrenos that aren't in saved cache yet
+          const savedKeys = new Set(parsed.map((t) => t.url || t.id));
+          const newFromFactory = initialTerrenos.filter((t) => !savedKeys.has(t.url || t.id));
+          if (newFromFactory.length > 0) {
+            return [...newFromFactory, ...parsed];
+          }
+          return parsed;
+        }
       }
     } catch (e) {
       console.warn('Error reading from localStorage:', e);
