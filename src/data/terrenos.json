@@ -35,6 +35,22 @@
   },
   {
     "city": "Chihuahua",
+    "title": "MX$13",
+    "meters": 22813.0,
+    "price": 13000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1153749373898134/",
+    "description": "MX$13\nExcelente terreno a pie de carretera en V. Lombardo Toledano📍Sup. 22,813 m².\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0.57,
+    "id": "TER-003"
+  },
+  {
+    "city": "Chihuahua",
     "title": "Terreno o parcela  en venta 2.2 hectáreas en la autopista",
     "meters": 22000.0,
     "price": 0,
@@ -44,7 +60,7 @@
     "description": "MX$2 | Terreno o parcela  en venta 2.2 hectáreas en la autopista | Pedro Meoqui, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-003",
+    "id": "TER-004",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -65,7 +81,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-004"
+    "id": "TER-005"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -78,7 +94,7 @@
     "description": "MX$1.950.000 | SE VENDE TERRENO DE 1 HECTAREA EN CD ALDAMA , CHIHUAHUA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-005",
+    "id": "TER-006",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -99,7 +115,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-006"
+    "id": "TER-007"
   },
   {
     "city": "Aquiles Serdán",
@@ -116,7 +132,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-007"
+    "id": "TER-008"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -133,7 +149,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-008"
+    "id": "TER-009"
   },
   {
     "city": "Chihuahua",
@@ -146,7 +162,7 @@
     "description": "Gratis | RENTA TERRENO INDUSTRIAL, ZONA NORTE CHIHUAHUA- IMPULSO 1,900m2 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-009",
+    "id": "TER-010",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -167,7 +183,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-010"
+    "id": "TER-011"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$850",
+    "meters": 1337.0,
+    "price": 850000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1364613999030642/",
+    "description": "MX$850\nTerreno 1337m2 al norte cerca de vistas\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 635.75,
+    "id": "TER-012"
   },
   {
     "city": "Chihuahua",
@@ -180,7 +212,7 @@
     "description": "MX$1.500.000 | Terreno en Venta Ideal para Eventos $1,500,000 NEGOCIABLE\n1,250 mts2\n614136 6684\nLlamadas y WhatsApp | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 1200.0,
-    "id": "TER-011",
+    "id": "TER-013",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -197,7 +229,7 @@
     "description": "US$110.000 | Terrenos de 1200m2 mensualidades a solo 1460 | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 91.67,
-    "id": "TER-012",
+    "id": "TER-014",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -218,7 +250,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-013"
+    "id": "TER-015"
   },
   {
     "city": "Chihuahua",
@@ -235,7 +267,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-014"
+    "id": "TER-016"
   },
   {
     "city": "Aquiles Serdán",
@@ -252,7 +284,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-015"
+    "id": "TER-017"
   },
   {
     "city": "Delicias",
@@ -265,7 +297,7 @@
     "description": "MX$600 | MX$600.000 | Terreno 20 x 50, en libramiento oriente. | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 600.0,
-    "id": "TER-016",
+    "id": "TER-018",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -286,7 +318,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-017"
+    "id": "TER-019"
   },
   {
     "city": "Aldama",
@@ -299,7 +331,7 @@
     "description": "MX$250.000 | Terreno campestre 1000 m² | $3,000 al mes SIN INTERESES | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 3.0,
-    "id": "TER-018",
+    "id": "TER-020",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -320,7 +352,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-019"
+    "id": "TER-021"
   },
   {
     "city": "Aldama",
@@ -333,7 +365,7 @@
     "description": "MX$80 | Terreno en venta , 800m2 , Pasando Aldama, | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-020",
+    "id": "TER-022",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -350,7 +382,7 @@
     "description": "MX$111 | VENTA TERRENO EN ESQUINA - 750 m2 SOBRE BLVD. RÍO FUERTE (LOS MOCHIS) | Los Mochis, Sin",
     "source": "Facebook Marketplace",
     "price_per_m2": 148.0,
-    "id": "TER-021",
+    "id": "TER-023",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -371,7 +403,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-022"
+    "id": "TER-024"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$159.000",
+    "meters": 580.0,
+    "price": 159000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/935032619346876/",
+    "description": "MX$159.000\nPor Divorcio REMATO mi TERRENO (580m2) a 3 min de OXXO con FACILIDADES de PAGO\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 274.14,
+    "id": "TER-025"
   },
   {
     "city": "Chihuahua",
@@ -384,7 +432,7 @@
     "description": "MX$550.000 | TERRENO CAMPESTRE EN VALLE\nDORADO 500M 20X25 F. PARQUE | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 1100.0,
-    "id": "TER-023",
+    "id": "TER-026",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -401,7 +449,7 @@
     "description": "MX$5.277 | 🏡 Terrenos campestres frente a la presa de 500 m2 en venta..!!! | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-024",
+    "id": "TER-027",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -418,7 +466,7 @@
     "description": "MX$11.111 | Terreno campestre mesa del seri frente a área  comun.  500 metros cuadrados. | Hermosillo, Son",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-025",
+    "id": "TER-028",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -439,7 +487,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-026"
+    "id": "TER-029"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -456,7 +504,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-027"
+    "id": "TER-030"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -473,7 +521,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-028"
+    "id": "TER-031"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -486,11 +534,43 @@
     "description": "MX$250 | Terreno 20x20 cambio por maquinaria o venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 625.0,
-    "id": "TER-029",
+    "id": "TER-032",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$1.234.567",
+    "meters": 400.0,
+    "price": 0,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2336327143770334/",
+    "description": "MX$1.234.567\nse vende terreno de 16 X25\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-033"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$1.234.567",
+    "meters": 400.0,
+    "price": 0,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/4527064670910277/",
+    "description": "MX$1.234.567\nse vende terreno de 16 X25\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-034"
   },
   {
     "city": "Chihuahua",
@@ -507,7 +587,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-030"
+    "id": "TER-035"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -524,7 +604,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-031"
+    "id": "TER-036"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -541,7 +621,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-032"
+    "id": "TER-037"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -558,7 +638,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-033"
+    "id": "TER-038"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$2.350.000",
+    "meters": 287.5,
+    "price": 0,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/27686796467662403/",
+    "description": "MX$2.350.000\n🏡✨ TERRENO EN VENTA EN ALTOZANO COYOTE 💰 $2,350,000 MXN 📐 287.5 m2 de terreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-039"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -575,7 +671,39 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-034"
+    "id": "TER-040"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$120.000",
+    "meters": 222.0,
+    "price": 120000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1630277192061640/",
+    "description": "MX$120.000\nVendo terreno camino a carrizalillo 222 metros cuadrados cuenta con título de propiedad sin adeudos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 540.54,
+    "id": "TER-041"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$120.000",
+    "meters": 222.0,
+    "price": 120000,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1550479569692628/",
+    "description": "MX$120.000\nTerreno camino a carrizalillo 222 metros cuadrados sin adeudos tiene título de propiedad\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 540.54,
+    "id": "TER-042"
   },
   {
     "city": "Chihuahua",
@@ -592,7 +720,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-035"
+    "id": "TER-043"
   },
   {
     "city": "Delicias",
@@ -605,7 +733,7 @@
     "description": "MX$12 | Vendo terreno camino a carrizalillo 222 metros cuadrados tengo título de propiedad inf [hidden information] | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-036",
+    "id": "TER-044",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -622,7 +750,7 @@
     "description": "MX$5 | TERRENO 10x22 A LA VENTA ‼️‼️ | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-037",
+    "id": "TER-045",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -643,7 +771,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-038"
+    "id": "TER-046"
   },
   {
     "city": "Meoqui",
@@ -660,7 +788,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-039"
+    "id": "TER-047"
   },
   {
     "city": "Delicias",
@@ -673,7 +801,7 @@
     "description": "MX$135.000 | ÚLTIMO TERRENO DE 10 X20 | Delicias, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 675.0,
-    "id": "TER-040",
+    "id": "TER-048",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -694,7 +822,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-041"
+    "id": "TER-049"
   },
   {
     "city": "Aldama",
@@ -707,7 +835,7 @@
     "description": "Recién publicado | MX$110 | Terreno 10x20 Salida para Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 550.0,
-    "id": "TER-042",
+    "id": "TER-050",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -728,7 +856,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-043"
+    "id": "TER-051"
   },
   {
     "city": "Chihuahua",
@@ -745,7 +873,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-044"
+    "id": "TER-052"
   },
   {
     "city": "Meoqui",
@@ -758,11 +886,27 @@
     "description": "MX$90 | Terreno 10x20 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-045",
+    "id": "TER-053",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$1.400.000",
+    "meters": 166.94,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/29072128202419066/",
+    "description": "MX$1.400.000\nTerreno en venta · 166.94 m2 · fraccionamiento cerrado al norte de Chihuahua\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-054"
   },
   {
     "city": "Aldama",
@@ -775,7 +919,7 @@
     "description": "MX$950.000 | Vendo Terreno. Residencial El León 160 mts. _ | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 5937.5,
-    "id": "TER-046",
+    "id": "TER-055",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -792,7 +936,7 @@
     "description": "Gratis | MX$80 | Vendo terreno 8 x 20 urge que salga | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-047",
+    "id": "TER-056",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -813,7 +957,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-048"
+    "id": "TER-057"
   },
   {
     "city": "Delicias",
@@ -826,7 +970,7 @@
     "description": "MX$340.000 | Terreno 14x8.40 en praderas del oriente delicias chih | Delicias, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 3035.71,
-    "id": "TER-049",
+    "id": "TER-058",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -843,7 +987,7 @@
     "description": "MX$65.000 | Terreno en aquiles serdan de 12.5 x 20 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-050",
+    "id": "TER-059",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -860,7 +1004,7 @@
     "description": "MX$130 | VENDO LOTE CAMPESTRE UBICADO POR CARRETERA ALDAMA KM 22 (Negociable)\n\n✅ Lote de 1,053.26 m2 (20.01 m | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 2440.86,
-    "id": "TER-051",
+    "id": "TER-060",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -877,7 +1021,7 @@
     "description": "MX$250 | TERRENOS DE 10x15 MTS | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 16666.67,
-    "id": "TER-052",
+    "id": "TER-061",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -898,7 +1042,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-053"
+    "id": "TER-062"
   },
   {
     "city": "Aldama",
@@ -915,7 +1059,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-054"
+    "id": "TER-063"
   },
   {
     "city": "Meoqui",
@@ -932,7 +1076,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-055"
+    "id": "TER-064"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$7.000",
+    "meters": 0,
+    "price": 7000000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1063312780003271/",
+    "description": "MX$7.000\n2 habitaciones 1 baño - Townhouse\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-065"
   },
   {
     "city": "Aldama",
@@ -949,7 +1109,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-056"
+    "id": "TER-066"
   },
   {
     "city": "Meoqui",
@@ -966,7 +1126,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-057"
+    "id": "TER-067"
   },
   {
     "city": "Chihuahua",
@@ -983,7 +1143,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-058"
+    "id": "TER-068"
   },
   {
     "city": "Chihuahua",
@@ -1000,7 +1160,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-059"
+    "id": "TER-069"
   },
   {
     "city": "Aldama",
@@ -1017,7 +1177,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-060"
+    "id": "TER-070"
   },
   {
     "city": "Meoqui",
@@ -1034,7 +1194,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-061"
+    "id": "TER-071"
   },
   {
     "city": "Meoqui",
@@ -1051,7 +1211,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-062"
+    "id": "TER-072"
   },
   {
     "city": "Chihuahua",
@@ -1068,7 +1228,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-063"
+    "id": "TER-073"
   },
   {
     "city": "Chihuahua",
@@ -1085,7 +1245,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-064"
+    "id": "TER-074"
   },
   {
     "city": "Chihuahua",
@@ -1102,7 +1262,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-065"
+    "id": "TER-075"
   },
   {
     "city": "Aldama",
@@ -1119,7 +1279,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-066"
+    "id": "TER-076"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$2.900",
+    "meters": 0,
+    "price": 2900000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1158990436554472/",
+    "description": "MX$2.900\nLlanta nueva 265/70R17 todo terreno 10 capas\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-077"
   },
   {
     "city": "Aquiles Serdán",
@@ -1136,7 +1312,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-067"
+    "id": "TER-078"
   },
   {
     "city": "Aldama",
@@ -1153,7 +1329,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-068"
+    "id": "TER-079"
   },
   {
     "city": "Aquiles Serdán",
@@ -1170,7 +1346,39 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-069"
+    "id": "TER-080"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$2.000",
+    "meters": 0,
+    "price": 2000000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1128333499768211/",
+    "description": "MX$2.000\nTerrenos a pie de carretera km22 cerca del faisán\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-081"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$2.000",
+    "meters": 0,
+    "price": 2000000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1963088367985417/",
+    "description": "MX$2.000\n💥TERRENOS IDEAL PARA INVERSIONISTA\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-082"
   },
   {
     "city": "Meoqui",
@@ -1187,7 +1395,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-070"
+    "id": "TER-083"
   },
   {
     "city": "Meoqui",
@@ -1204,7 +1412,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-071"
+    "id": "TER-084"
   },
   {
     "city": "Chihuahua",
@@ -1221,7 +1429,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-072"
+    "id": "TER-085"
   },
   {
     "city": "Aldama",
@@ -1238,7 +1446,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-073"
+    "id": "TER-086"
   },
   {
     "city": "Aquiles Serdán",
@@ -1255,7 +1463,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-074"
+    "id": "TER-087"
   },
   {
     "city": "Aquiles Serdán",
@@ -1272,7 +1480,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-075"
+    "id": "TER-088"
   },
   {
     "city": "Chihuahua",
@@ -1289,7 +1497,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-076"
+    "id": "TER-089"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -1306,7 +1514,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-077"
+    "id": "TER-090"
   },
   {
     "city": "Chihuahua",
@@ -1323,7 +1531,119 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-078"
+    "id": "TER-091"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$1.000",
+    "meters": 0,
+    "price": 1000000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1878779710163145/",
+    "description": "MX$1.000\nTerrenos con solo mil pesos Mensuales km19 carretera aldama\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-092"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$1",
+    "meters": 0,
+    "price": 1000000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1104282712456482/",
+    "description": "MX$1\nTerrenos en venta [hidden information]\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-093"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$1",
+    "meters": 0,
+    "price": 1000000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1857500465608146/",
+    "description": "MX$1\nterreno kilometro 25 carretera ah juarez 932 metros inf [hidden information]\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-094"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$1.000",
+    "meters": 0,
+    "price": 1000000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1738205047258349/",
+    "description": "MX$1.000\nTerrenos con solo mil mensuales km19 carretera aldama\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-095"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$1",
+    "meters": 0,
+    "price": 1000000,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1636260784716801/",
+    "description": "MX$1\nProlongación cantera. Venta de terrenos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-096"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$1",
+    "meters": 0,
+    "price": 1000000,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1369827311805640/",
+    "description": "MX$1\nVenta de terrenos. Prolongación cantera\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-097"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$1",
+    "meters": 0,
+    "price": 1000000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2518336838687742/",
+    "description": "MX$1\nMonoambiente 0 baños - Townhouse\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-098"
   },
   {
     "city": "Chihuahua",
@@ -1340,7 +1660,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-079"
+    "id": "TER-099"
   },
   {
     "city": "Chihuahua",
@@ -1357,7 +1677,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-080"
+    "id": "TER-100"
   },
   {
     "city": "Chihuahua",
@@ -1374,7 +1694,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-081"
+    "id": "TER-101"
   },
   {
     "city": "Chihuahua",
@@ -1391,7 +1711,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-082"
+    "id": "TER-102"
   },
   {
     "city": "Aldama",
@@ -1408,7 +1728,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-083"
+    "id": "TER-103"
   },
   {
     "city": "Aldama",
@@ -1425,7 +1745,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-084"
+    "id": "TER-104"
   },
   {
     "city": "Aldama",
@@ -1442,7 +1762,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-085"
+    "id": "TER-105"
   },
   {
     "city": "Meoqui",
@@ -1459,7 +1779,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-086"
+    "id": "TER-106"
   },
   {
     "city": "Meoqui",
@@ -1476,7 +1796,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-087"
+    "id": "TER-107"
   },
   {
     "city": "Meoqui",
@@ -1493,7 +1813,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-088"
+    "id": "TER-108"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -1510,7 +1830,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-089"
+    "id": "TER-109"
   },
   {
     "city": "Meoqui",
@@ -1527,7 +1847,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-090"
+    "id": "TER-110"
   },
   {
     "city": "Meoqui",
@@ -1544,7 +1864,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-091"
+    "id": "TER-111"
   },
   {
     "city": "Meoqui",
@@ -1561,7 +1881,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-092"
+    "id": "TER-112"
   },
   {
     "city": "Aquiles Serdán",
@@ -1578,7 +1898,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-093"
+    "id": "TER-113"
   },
   {
     "city": "Chihuahua",
@@ -1595,7 +1915,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-094"
+    "id": "TER-114"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$980.000",
+    "meters": 0,
+    "price": 980000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2037892626856664/",
+    "description": "MX$980.000\nTerreno Venta Zona Norte Salida Juarez\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-115"
   },
   {
     "city": "Chihuahua",
@@ -1612,7 +1948,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-095"
+    "id": "TER-116"
   },
   {
     "city": "Delicias",
@@ -1625,7 +1961,7 @@
     "description": "MX$950.000 | TERRENO EN VENTA, CLUB CAMPESTRE COUNTRY DELICIAS, $950,000.00, [hidden information] y [hidden information] | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-096",
+    "id": "TER-117",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1642,7 +1978,7 @@
     "description": "MX$950.000 | Monoambiente 0 baños - Casa | Delicias, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-097",
+    "id": "TER-118",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1659,7 +1995,7 @@
     "description": "MX$950 | VENTA TERRENO ALDAMA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-098",
+    "id": "TER-119",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1676,7 +2012,7 @@
     "description": "MX$950.000 | 428) EN VENTA TERRENO EN CAMINO HACIA A MAJALCA   📍 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-099",
+    "id": "TER-120",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1693,7 +2029,7 @@
     "description": "MX$930.000 | Monoambiente 0 baños - Townhouse | Victoria de Durango (Durango), Dgo",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-100",
+    "id": "TER-121",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1710,11 +2046,43 @@
     "description": "MX$900.000 | 2 habitaciones 2 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-101",
+    "id": "TER-122",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$850.000",
+    "meters": 0,
+    "price": 850000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1406943261524570/",
+    "description": "MX$850.000\n🚨 ¡TERRENO EN ZONA CENTRICA DE OPORTUNIDAD ! 📣\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-123"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$850.000",
+    "meters": 0,
+    "price": 850000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1805728010467293/",
+    "description": "MX$850.000\nMonoambiente 1 baño Casa\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-124"
   },
   {
     "city": "Chihuahua",
@@ -1727,7 +2095,7 @@
     "description": "MX$850.000 | Terreno en venta Salida a Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-102",
+    "id": "TER-125",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1744,7 +2112,7 @@
     "description": "MX$850.000 | Monoambiente 0 baños - Townhouse | Culiacán Rosales, Sin",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-103",
+    "id": "TER-126",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1761,7 +2129,7 @@
     "description": "MX$850.000 | 1 habitación 1 baño - Townhouse | Hermosillo, Son",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-104",
+    "id": "TER-127",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1778,11 +2146,43 @@
     "description": "MX$850.000 | TERRENO CAMPESTRE | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-105",
+    "id": "TER-128",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$810.000",
+    "meters": 0,
+    "price": 810000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2171554530465488/",
+    "description": "MX$810.000\n467) TERRENO EN VENTA EN CIUDAD CAMARGO, COL. ARBOL GRANDE 📍\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-129"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$800.000",
+    "meters": 0,
+    "price": 800000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1504176368211966/",
+    "description": "MX$800.000\n536) TERRENO EN VENTA EN COLONIA El DIAMANTE 📍\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-130"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -1795,7 +2195,7 @@
     "description": "MX$798.000 | Terreno campestre en santa isabel | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-106",
+    "id": "TER-131",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1812,11 +2212,27 @@
     "description": "MX$795.000 | 2 habitaciones 1 baño - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-107",
+    "id": "TER-132",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$792.000",
+    "meters": 0,
+    "price": 792000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1672784270933789/",
+    "description": "MX$792.000\n🚩TERRENOS EN ABONOS PASANDO LA HACIENDITA🚩\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-133"
   },
   {
     "city": "Chihuahua",
@@ -1833,7 +2249,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-108"
+    "id": "TER-134"
   },
   {
     "city": "Chihuahua",
@@ -1850,7 +2266,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-109"
+    "id": "TER-135"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$750.000",
+    "meters": 0,
+    "price": 750000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1398022441978415/",
+    "description": "MX$750.000\nCasa en Aldama Col Fundadores\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-136"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -1863,7 +2295,7 @@
     "description": "MX$750.000 | 1 habitación 1 baño Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-110",
+    "id": "TER-137",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1880,7 +2312,7 @@
     "description": "MX$750.000 | 2 habitaciones 1 baño - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-111",
+    "id": "TER-138",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1897,7 +2329,7 @@
     "description": "MX$750.000 | 2 habitaciones 1 baño - Casa | Aquiles Serdán, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-112",
+    "id": "TER-139",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1914,7 +2346,7 @@
     "description": "MX$730.000 | MX$770.000 | 🏡 CASA AL SUR CIUDAD CHIHUAHUA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-113",
+    "id": "TER-140",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -1931,11 +2363,27 @@
     "description": "MX$730.000 | 1 habitación 1 baño - Townhouse",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-114",
+    "id": "TER-141",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$725.000",
+    "meters": 0,
+    "price": 725000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/985554303804450/",
+    "description": "MX$725.000\nCASA EN VENTA EN ALDAMA\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-142"
   },
   {
     "city": "Chihuahua",
@@ -1948,11 +2396,27 @@
     "description": "MX$714.900 | 1 habitación 1 baño Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-115",
+    "id": "TER-143",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$700.000",
+    "meters": 0,
+    "price": 700000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1137905488657395/",
+    "description": "MX$700.000\nMonoambiente 0 baños - Casa\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-144"
   },
   {
     "city": "Chihuahua",
@@ -1969,7 +2433,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-116"
+    "id": "TER-145"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -1986,7 +2450,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-117"
+    "id": "TER-146"
   },
   {
     "city": "Aldama",
@@ -1999,7 +2463,7 @@
     "description": "MX$662.000 | Terreno campestre 600 metros | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-118",
+    "id": "TER-147",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2016,7 +2480,7 @@
     "description": "MX$660.000 | Terreno campestre | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-119",
+    "id": "TER-148",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2033,7 +2497,7 @@
     "description": "MX$650.000 | Monoambiente 0 baños - Townhouse | Cuauhtémoc, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-120",
+    "id": "TER-149",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2054,7 +2518,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-121"
+    "id": "TER-150"
   },
   {
     "city": "Aldama",
@@ -2067,11 +2531,27 @@
     "description": "MX$625.000 | 2 habitaciones 1 baño - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-122",
+    "id": "TER-151",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$580",
+    "meters": 0,
+    "price": 580000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1058766853877208/",
+    "description": "MX$580\nTerreno granjas de sacramento\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-152"
   },
   {
     "city": "Chihuahua",
@@ -2084,7 +2564,7 @@
     "description": "MX$580.000 | 44. 🚩 TERRENO EN VENTA POR LA 20 DE NOVIEMBRE📍 Chihuahua, Chih | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-123",
+    "id": "TER-153",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2101,7 +2581,7 @@
     "description": "MX$580.000 | Terreno en Venta 📍 en Fracc. Valle Dorado I, Santa Isabel, Chihuahua | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-124",
+    "id": "TER-154",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2118,7 +2598,7 @@
     "description": "MX$560.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-125",
+    "id": "TER-155",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2135,7 +2615,7 @@
     "description": "MX$550.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-126",
+    "id": "TER-156",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2152,7 +2632,7 @@
     "description": "MX$550.000 | Terreno en venta | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-127",
+    "id": "TER-157",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2169,7 +2649,7 @@
     "description": "MX$550.000 | 🚩TERRENOS EN VENTA, EL SAUZ | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-128",
+    "id": "TER-158",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2186,7 +2666,7 @@
     "description": "MX$550 | Terreno con escritura | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-129",
+    "id": "TER-159",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2203,7 +2683,7 @@
     "description": "MX$550 | EN LA HACIENDITA EXCELENTE \nTERRENO CAMPESTRE T. DIRECTO | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-130",
+    "id": "TER-160",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2220,7 +2700,7 @@
     "description": "MX$550.000 | Terreno Venta Valle Dorado DANDIM | Santa Isabel, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-131",
+    "id": "TER-161",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2237,7 +2717,7 @@
     "description": "MX$550.000 | Terreno - Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-132",
+    "id": "TER-162",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2254,7 +2734,7 @@
     "description": "MX$550 | Monoambiente 0 baños - Townhouse | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-133",
+    "id": "TER-163",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2271,11 +2751,75 @@
     "description": "MX$525.000 | 🚩 ¡OPORTUNIDAD ÚNICA, VENTA TERRENOS EN LAGO JACALES! | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-134",
+    "id": "TER-164",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$500",
+    "meters": 0,
+    "price": 500000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/927069620191923/",
+    "description": "MX$500\nVenta de terrenos en abonos.Animate apartar con 500\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-165"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$500",
+    "meters": 0,
+    "price": 500000,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1892598852148208/",
+    "description": "MX$500\nEn venta para granja o terreno 2 lavabos x $500 o 1 x $300 en buenas condiciones\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-166"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$500",
+    "meters": 0,
+    "price": 500000,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2121874248707249/",
+    "description": "MX$500\nSe venden rines\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-167"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 500000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1682484596732182/",
+    "description": "Gratis\nAparta con $500 pesitos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-168"
   },
   {
     "city": "Chihuahua",
@@ -2292,7 +2836,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-135"
+    "id": "TER-169"
   },
   {
     "city": "Chihuahua",
@@ -2309,7 +2853,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-136"
+    "id": "TER-170"
   },
   {
     "city": "Chihuahua",
@@ -2326,7 +2870,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-137"
+    "id": "TER-171"
   },
   {
     "city": "Chihuahua",
@@ -2343,7 +2887,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-138"
+    "id": "TER-172"
   },
   {
     "city": "Chihuahua",
@@ -2360,7 +2904,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-139"
+    "id": "TER-173"
   },
   {
     "city": "Aldama",
@@ -2377,7 +2921,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-140"
+    "id": "TER-174"
   },
   {
     "city": "Meoqui",
@@ -2394,7 +2938,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-141"
+    "id": "TER-175"
   },
   {
     "city": "Aldama",
@@ -2411,7 +2955,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-142"
+    "id": "TER-176"
   },
   {
     "city": "Aldama",
@@ -2428,7 +2972,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-143"
+    "id": "TER-177"
   },
   {
     "city": "Aldama",
@@ -2445,7 +2989,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-144"
+    "id": "TER-178"
   },
   {
     "city": "Meoqui",
@@ -2462,7 +3006,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-145"
+    "id": "TER-179"
   },
   {
     "city": "Chihuahua",
@@ -2475,7 +3019,7 @@
     "description": "MX$500 | TERRENOS AL SUR X PUERTA DE CHIHUAHUA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-146",
+    "id": "TER-180",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2492,7 +3036,7 @@
     "description": "MX$500 | TERRENOS RUMBO AL MIMBRE  , CARRETERA ALDAMA KM 22 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-147",
+    "id": "TER-181",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2509,7 +3053,7 @@
     "description": "MX$500 | Terrenos en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-148",
+    "id": "TER-182",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2526,7 +3070,7 @@
     "description": "MX$500 | Terreno+ | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-149",
+    "id": "TER-183",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2543,7 +3087,7 @@
     "description": "MX$500 | Terrenos escriturables! | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-150",
+    "id": "TER-184",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2560,7 +3104,7 @@
     "description": "MX$500 | Terrenos de oportunidad | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-151",
+    "id": "TER-185",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2577,7 +3121,7 @@
     "description": "MX$500 | Terrenos baratos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-152",
+    "id": "TER-186",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2594,7 +3138,7 @@
     "description": "MX$500 | 🌿 TERRENOS CAMPESTRES EN CHIHUAHUA | PORTAL DEL FRESNO 🌿 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-153",
+    "id": "TER-187",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2611,11 +3155,59 @@
     "description": "MX$500 | TERRENOS PORTAL DEL FRESNO | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-154",
+    "id": "TER-188",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$495.000",
+    "meters": 0,
+    "price": 495000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1727592324999208/",
+    "description": "MX$495.000\nTerrenos+a+10+min+de+Cosco\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-189"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$495.000",
+    "meters": 0,
+    "price": 495000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1352493296692633/",
+    "description": "MX$495.000\nSe vende terrenos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-190"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$490.000",
+    "meters": 0,
+    "price": 490000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1995816151390324/",
+    "description": "MX$490.000\nTERRENO EN VENTA\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-191"
   },
   {
     "city": "Aquiles Serdán",
@@ -2632,7 +3224,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-155"
+    "id": "TER-192"
   },
   {
     "city": "Aquiles Serdán",
@@ -2649,7 +3241,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-156"
+    "id": "TER-193"
   },
   {
     "city": "Meoqui",
@@ -2662,7 +3254,7 @@
     "description": "MX$490.000 | TERRENO EN VENTA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-157",
+    "id": "TER-194",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2679,7 +3271,7 @@
     "description": "MX$490.000 | TERRENO EN VENTA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-158",
+    "id": "TER-195",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2700,7 +3292,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-159"
+    "id": "TER-196"
   },
   {
     "city": "Aldama",
@@ -2713,7 +3305,7 @@
     "description": "MX$480.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-160",
+    "id": "TER-197",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2730,7 +3322,7 @@
     "description": "MX$475.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-161",
+    "id": "TER-198",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2747,7 +3339,7 @@
     "description": "MX$468.000 | Terrenos en residencial villa siena por el campestre | Victoria de Durango (Durango), Dgo",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-162",
+    "id": "TER-199",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2764,7 +3356,7 @@
     "description": "MX$460.000 | Monoambiente 0 baños - Townhouse | Cuauhtémoc, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-163",
+    "id": "TER-200",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2785,7 +3377,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-164"
+    "id": "TER-201"
   },
   {
     "city": "Chihuahua",
@@ -2802,7 +3394,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-165"
+    "id": "TER-202"
   },
   {
     "city": "Chihuahua",
@@ -2819,7 +3411,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-166"
+    "id": "TER-203"
   },
   {
     "city": "Meoqui",
@@ -2836,7 +3428,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-167"
+    "id": "TER-204"
   },
   {
     "city": "Chihuahua",
@@ -2849,7 +3441,7 @@
     "description": "MX$450.000 | 1 habitación 1 baño Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-168",
+    "id": "TER-205",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2866,7 +3458,7 @@
     "description": "MX$450.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-169",
+    "id": "TER-206",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2883,7 +3475,7 @@
     "description": "MX$450.000 | Monoambiente 0 baños - Casa | Pedro Meoqui, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-170",
+    "id": "TER-207",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2900,7 +3492,7 @@
     "description": "MX$450.000 | TERRENOS EN CAMPESTRE DEL CHUVÍSCAR | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-171",
+    "id": "TER-208",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2917,7 +3509,7 @@
     "description": "MX$450 | Terreno campestre | Hermosillo, Son",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-172",
+    "id": "TER-209",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2934,7 +3526,7 @@
     "description": "MX$445.500 | Terreno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-173",
+    "id": "TER-210",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2951,7 +3543,7 @@
     "description": "MX$440.000 | 1 habitación 1 baño Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-174",
+    "id": "TER-211",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -2968,11 +3560,27 @@
     "description": "MX$440.000 | Terrenos en Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-175",
+    "id": "TER-212",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$435.000",
+    "meters": 0,
+    "price": 435000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1136965305515713/",
+    "description": "MX$435.000\nMonoambiente 0 baños - Casa\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-213"
   },
   {
     "city": "Aldama",
@@ -2985,7 +3593,7 @@
     "description": "MX$425.000 | Terrenos en venta aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-176",
+    "id": "TER-214",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3006,7 +3614,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-177"
+    "id": "TER-215"
   },
   {
     "city": "Chihuahua",
@@ -3023,7 +3631,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-178"
+    "id": "TER-216"
   },
   {
     "city": "Aldama",
@@ -3036,7 +3644,7 @@
     "description": "MX$400.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-179",
+    "id": "TER-217",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3053,7 +3661,7 @@
     "description": "MX$399.000 | Monoambiente 0 baños - Townhouse | Aquiles Serdán, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-180",
+    "id": "TER-218",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3070,7 +3678,7 @@
     "description": "MX$390.000 | Terreno por la noria | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-181",
+    "id": "TER-219",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3091,7 +3699,151 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-182"
+    "id": "TER-220"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1988377971847709/",
+    "description": "MX$380.000\nVenta de terreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-221"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1761711972163449/",
+    "description": "MX$380.000\nVenta de terreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-222"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/4658598401134459/",
+    "description": "MX$380.000\nTerreno en venta\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-223"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1571528737634431/",
+    "description": "MX$380.000\nTerreno en venta\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-224"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1151504850871475/",
+    "description": "MX$380.000\nTerreno en venta\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-225"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2987044008308387/",
+    "description": "MX$380.000\nTerreno en venta\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-226"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2575033839610138/",
+    "description": "MX$380.000\nVenta de terreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-227"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/957896410727878/",
+    "description": "MX$380.000\nVenta de terreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-228"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$380.000",
+    "meters": 0,
+    "price": 380000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1643579744226035/",
+    "description": "MX$380.000\nTerreno en venta\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-229"
   },
   {
     "city": "Chihuahua",
@@ -3108,7 +3860,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-183"
+    "id": "TER-230"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -3125,7 +3877,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-184"
+    "id": "TER-231"
   },
   {
     "city": "Aldama",
@@ -3138,7 +3890,7 @@
     "description": "MX$380 | Terreno en el fresno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-185",
+    "id": "TER-232",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3155,7 +3907,7 @@
     "description": "MX$375.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-186",
+    "id": "TER-233",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3172,7 +3924,7 @@
     "description": "MX$370.000 | Venta de terreno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-187",
+    "id": "TER-234",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3193,7 +3945,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-188"
+    "id": "TER-235"
   },
   {
     "city": "Meoqui",
@@ -3210,7 +3962,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-189"
+    "id": "TER-236"
   },
   {
     "city": "Meoqui",
@@ -3227,7 +3979,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-190"
+    "id": "TER-237"
   },
   {
     "city": "Meoqui",
@@ -3244,7 +3996,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-191"
+    "id": "TER-238"
   },
   {
     "city": "Meoqui",
@@ -3261,7 +4013,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-192"
+    "id": "TER-239"
   },
   {
     "city": "Meoqui",
@@ -3278,7 +4030,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-193"
+    "id": "TER-240"
   },
   {
     "city": "Meoqui",
@@ -3291,11 +4043,27 @@
     "description": "MX$360.000 | VEBTA DE TERRENOS | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-194",
+    "id": "TER-241",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$350.000",
+    "meters": 0,
+    "price": 350000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1033389399726621/",
+    "description": "MX$350.000\n1 habitación 0.5 baños Townhouse\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-242"
   },
   {
     "city": "Delicias",
@@ -3308,7 +4076,7 @@
     "description": "MX$350.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-195",
+    "id": "TER-243",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3325,7 +4093,7 @@
     "description": "US$345.000 | Terreno al norte de la CD | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-196",
+    "id": "TER-244",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3342,7 +4110,7 @@
     "description": "MX$340 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-197",
+    "id": "TER-245",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3359,7 +4127,7 @@
     "description": "MX$330.000 | 1 habitación 1 baño Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-198",
+    "id": "TER-246",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3376,7 +4144,7 @@
     "description": "MX$320 | Terreno en cd Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-199",
+    "id": "TER-247",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3393,7 +4161,7 @@
     "description": "MX$302.500 | Terrenos en abonos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-200",
+    "id": "TER-248",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3414,7 +4182,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-201"
+    "id": "TER-249"
   },
   {
     "city": "Chihuahua",
@@ -3427,7 +4195,7 @@
     "description": "MX$300 | Terrenos en venta de contado | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-202",
+    "id": "TER-250",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3444,7 +4212,7 @@
     "description": "MX$300 | Terreno con casa en obra negra",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-203",
+    "id": "TER-251",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3465,7 +4233,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-204"
+    "id": "TER-252"
   },
   {
     "city": "Meoqui",
@@ -3482,7 +4250,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-205"
+    "id": "TER-253"
   },
   {
     "city": "Meoqui",
@@ -3499,7 +4267,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-206"
+    "id": "TER-254"
   },
   {
     "city": "Meoqui",
@@ -3516,7 +4284,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-207"
+    "id": "TER-255"
   },
   {
     "city": "Aldama",
@@ -3533,7 +4301,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-208"
+    "id": "TER-256"
   },
   {
     "city": "Chihuahua",
@@ -3546,7 +4314,7 @@
     "description": "MX$295.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-209",
+    "id": "TER-257",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3563,7 +4331,7 @@
     "description": "MX$280 | 1 habitación 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-210",
+    "id": "TER-258",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3580,7 +4348,7 @@
     "description": "MX$280.000 | 2 habitaciones 1 baño - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-211",
+    "id": "TER-259",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3597,7 +4365,7 @@
     "description": "MX$272.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-212",
+    "id": "TER-260",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3618,7 +4386,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-213"
+    "id": "TER-261"
   },
   {
     "city": "Meoqui",
@@ -3635,7 +4403,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-214"
+    "id": "TER-262"
   },
   {
     "city": "Aldama",
@@ -3648,7 +4416,7 @@
     "description": "MX$260.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-215",
+    "id": "TER-263",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3669,7 +4437,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-216"
+    "id": "TER-264"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -3686,7 +4454,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-217"
+    "id": "TER-265"
   },
   {
     "city": "Chihuahua",
@@ -3703,7 +4471,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-218"
+    "id": "TER-266"
   },
   {
     "city": "Chihuahua",
@@ -3720,7 +4488,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-219"
+    "id": "TER-267"
   },
   {
     "city": "Aldama",
@@ -3737,7 +4505,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-220"
+    "id": "TER-268"
   },
   {
     "city": "Delicias",
@@ -3750,7 +4518,7 @@
     "description": "MX$250 | Terreno a 3 km de la glorieta nueva | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-221",
+    "id": "TER-269",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3767,7 +4535,7 @@
     "description": "MX$250.000 | Se vende terreno para la 11 de Febrero | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-222",
+    "id": "TER-270",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3784,7 +4552,7 @@
     "description": "MX$250 | terreno salida cuauhtémoc | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-223",
+    "id": "TER-271",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3801,7 +4569,7 @@
     "description": "MX$250 | Terrenos con $250 pesitos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-224",
+    "id": "TER-272",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3818,7 +4586,7 @@
     "description": "MX$250.000 | Monoambiente 0 baños - | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-225",
+    "id": "TER-273",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3835,7 +4603,7 @@
     "description": "MX$250.000 | Terreno Campestre | Cuauhtémoc, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-226",
+    "id": "TER-274",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3852,7 +4620,7 @@
     "description": "MX$245.000 | Monoambiente 0 baños - Townhouse | Juárez, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-227",
+    "id": "TER-275",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3873,7 +4641,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-228"
+    "id": "TER-276"
   },
   {
     "city": "Aldama",
@@ -3890,7 +4658,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-229"
+    "id": "TER-277"
   },
   {
     "city": "Meoqui",
@@ -3907,7 +4675,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-230"
+    "id": "TER-278"
   },
   {
     "city": "Meoqui",
@@ -3920,7 +4688,7 @@
     "description": "MX$220.000 | TERRENO RUSTICO CON GRAN PLUSVALIA. | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-231",
+    "id": "TER-279",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -3941,7 +4709,55 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-232"
+    "id": "TER-280"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$200",
+    "meters": 0,
+    "price": 200000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1090293193790623/",
+    "description": "MX$200\nSe+quita+llerva+de+casas+y+terrenos+de+200+a+250+depende+el+terreno+para+más+inf+al+numero[hidden information]\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-281"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$200.000",
+    "meters": 0,
+    "price": 200000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1660967398698467/",
+    "description": "MX$200.000\nVenta de terrenos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-282"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$200",
+    "meters": 0,
+    "price": 200000,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1080789751338512/",
+    "description": "MX$200\nSe quita llerva de casas y terrenos de 200 a 250 depende el terreno para más inf al numero [hidden information]\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-283"
   },
   {
     "city": "Chihuahua",
@@ -3958,7 +4774,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-233"
+    "id": "TER-284"
   },
   {
     "city": "Chihuahua",
@@ -3975,7 +4791,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-234"
+    "id": "TER-285"
   },
   {
     "city": "Chihuahua",
@@ -3992,7 +4808,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-235"
+    "id": "TER-286"
   },
   {
     "city": "Aldama",
@@ -4009,7 +4825,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-236"
+    "id": "TER-287"
   },
   {
     "city": "Aldama",
@@ -4026,7 +4842,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-237"
+    "id": "TER-288"
   },
   {
     "city": "Aldama",
@@ -4043,7 +4859,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-238"
+    "id": "TER-289"
   },
   {
     "city": "Aldama",
@@ -4060,7 +4876,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-239"
+    "id": "TER-290"
   },
   {
     "city": "Aldama",
@@ -4077,7 +4893,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-240"
+    "id": "TER-291"
   },
   {
     "city": "Aldama",
@@ -4094,7 +4910,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-241"
+    "id": "TER-292"
   },
   {
     "city": "Aldama",
@@ -4111,7 +4927,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-242"
+    "id": "TER-293"
   },
   {
     "city": "Aldama",
@@ -4128,7 +4944,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-243"
+    "id": "TER-294"
   },
   {
     "city": "Aldama",
@@ -4145,7 +4961,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-244"
+    "id": "TER-295"
   },
   {
     "city": "Meoqui",
@@ -4162,7 +4978,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-245"
+    "id": "TER-296"
   },
   {
     "city": "Aldama",
@@ -4179,7 +4995,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-246"
+    "id": "TER-297"
   },
   {
     "city": "Meoqui",
@@ -4196,7 +5012,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-247"
+    "id": "TER-298"
   },
   {
     "city": "Chihuahua",
@@ -4209,7 +5025,7 @@
     "description": "MX$200.000 | Busco terreno en zona sur de Chihuahua | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-248",
+    "id": "TER-299",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4226,7 +5042,7 @@
     "description": "MX$200.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-249",
+    "id": "TER-300",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4243,7 +5059,7 @@
     "description": "MX$200.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-250",
+    "id": "TER-301",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4260,7 +5076,7 @@
     "description": "MX$200.000 | Terreno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-251",
+    "id": "TER-302",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4277,7 +5093,7 @@
     "description": "MX$200.000 | Monoambiente 0 baños - Departamento | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-252",
+    "id": "TER-303",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4294,7 +5110,7 @@
     "description": "MX$198.000 | Monoambiente 0 baños - Townhouse | Guasave, Sin",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-253",
+    "id": "TER-304",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4311,7 +5127,7 @@
     "description": "MX$195.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-254",
+    "id": "TER-305",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4332,7 +5148,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-255"
+    "id": "TER-306"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$180.000",
+    "meters": 0,
+    "price": 180000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/973638441798699/",
+    "description": "MX$180.000\nTerreno de 10 por 20 al sur de la Ciudad ya bardeado y portón cambio por troca o camioneta ofrezcan\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-307"
   },
   {
     "city": "Chihuahua",
@@ -4349,7 +5181,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-256"
+    "id": "TER-308"
   },
   {
     "city": "Meoqui",
@@ -4366,7 +5198,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-257"
+    "id": "TER-309"
   },
   {
     "city": "Aldama",
@@ -4383,7 +5215,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-258"
+    "id": "TER-310"
   },
   {
     "city": "Aldama",
@@ -4400,7 +5232,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-259"
+    "id": "TER-311"
   },
   {
     "city": "Meoqui",
@@ -4417,7 +5249,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-260"
+    "id": "TER-312"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -4430,7 +5262,7 @@
     "description": "MX$180.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-261",
+    "id": "TER-313",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4447,11 +5279,91 @@
     "description": "MX$175.000 | Monoambiente 0 baños - Townhouse | Saltillo, Coah",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-262",
+    "id": "TER-314",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$171.089",
+    "meters": 0,
+    "price": 171089,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/28539156005708463/",
+    "description": "MX$171.089\nVenta de terrenos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-315"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$171.089",
+    "meters": 0,
+    "price": 171089,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2499031197273155/",
+    "description": "MX$171.089\nVenta de terrenos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-316"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$171.089",
+    "meters": 0,
+    "price": 171089,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1522445159566449/",
+    "description": "MX$171.089\nVENTA DE TERRENOS\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-317"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$171.089",
+    "meters": 0,
+    "price": 171089,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1759209378659853/",
+    "description": "MX$171.089\nVENTA DE TERRENOS\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-318"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$171.089",
+    "meters": 0,
+    "price": 171089,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1618376033197498/",
+    "description": "MX$171.089\nVenta de terrenos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-319"
   },
   {
     "city": "Meoqui",
@@ -4468,7 +5380,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-263"
+    "id": "TER-320"
   },
   {
     "city": "Meoqui",
@@ -4485,7 +5397,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-264"
+    "id": "TER-321"
   },
   {
     "city": "Meoqui",
@@ -4502,7 +5414,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-265"
+    "id": "TER-322"
   },
   {
     "city": "Meoqui",
@@ -4519,7 +5431,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-266"
+    "id": "TER-323"
   },
   {
     "city": "Meoqui",
@@ -4536,7 +5448,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-267"
+    "id": "TER-324"
   },
   {
     "city": "Meoqui",
@@ -4553,7 +5465,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-268"
+    "id": "TER-325"
   },
   {
     "city": "Aquiles Serdán",
@@ -4570,7 +5482,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-269"
+    "id": "TER-326"
   },
   {
     "city": "Aquiles Serdán",
@@ -4587,7 +5499,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-270"
+    "id": "TER-327"
   },
   {
     "city": "Aquiles Serdán",
@@ -4604,7 +5516,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-271"
+    "id": "TER-328"
   },
   {
     "city": "Meoqui",
@@ -4617,7 +5529,7 @@
     "description": "MX$171.089 | Venta de terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-272",
+    "id": "TER-329",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4634,7 +5546,7 @@
     "description": "MX$171.089 | Ventas de terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-273",
+    "id": "TER-330",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4651,7 +5563,7 @@
     "description": "MX$171.089 | Terrenos en abonos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-274",
+    "id": "TER-331",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4668,11 +5580,27 @@
     "description": "MX$170 | Vendo terrenos a buen precio $$$ | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-275",
+    "id": "TER-332",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$168.000",
+    "meters": 0,
+    "price": 168000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1784872682754371/",
+    "description": "MX$168.000\nTERRENOS EN CERRO GRANDE\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-333"
   },
   {
     "city": "Chihuahua",
@@ -4689,7 +5617,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-276"
+    "id": "TER-334"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$160.000",
+    "meters": 0,
+    "price": 160000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/970351896126442/",
+    "description": "MX$160.000\nTerrenos 📍Aldama\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-335"
   },
   {
     "city": "Chihuahua",
@@ -4706,7 +5650,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-277"
+    "id": "TER-336"
   },
   {
     "city": "Chihuahua",
@@ -4723,7 +5667,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-278"
+    "id": "TER-337"
   },
   {
     "city": "Chihuahua",
@@ -4740,7 +5684,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-279"
+    "id": "TER-338"
   },
   {
     "city": "Aldama",
@@ -4753,7 +5697,7 @@
     "description": "MX$160.000 | Vendo terrenos a 5 minutos de aldama a pie de carretera | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-280",
+    "id": "TER-339",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4770,7 +5714,7 @@
     "description": "MX$160 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-281",
+    "id": "TER-340",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4791,7 +5735,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-282"
+    "id": "TER-341"
   },
   {
     "city": "Chihuahua",
@@ -4804,11 +5748,27 @@
     "description": "MX$159.000 | Terreno campestre en venta Rancho Los Leones, Chihuahua - Aura - Desde $159,000 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-283",
+    "id": "TER-342",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$150.000",
+    "meters": 0,
+    "price": 150000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/953481351129729/",
+    "description": "MX$150.000\n1 habitación 1 baño - Townhouse\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-343"
   },
   {
     "city": "Chihuahua",
@@ -4825,7 +5785,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-284"
+    "id": "TER-344"
   },
   {
     "city": "Aldama",
@@ -4842,7 +5802,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-285"
+    "id": "TER-345"
   },
   {
     "city": "Meoqui",
@@ -4859,7 +5819,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-286"
+    "id": "TER-346"
   },
   {
     "city": "Aquiles Serdán",
@@ -4876,7 +5836,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-287"
+    "id": "TER-347"
   },
   {
     "city": "Chihuahua",
@@ -4889,7 +5849,7 @@
     "description": "MX$150.000 | Terreno en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-288",
+    "id": "TER-348",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4906,7 +5866,7 @@
     "description": "MX$150 | Terreno en Venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-289",
+    "id": "TER-349",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4923,7 +5883,7 @@
     "description": "MX$150.000 | Remato terreno buena ubicación tomo unidad | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-290",
+    "id": "TER-350",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4940,7 +5900,7 @@
     "description": "MX$150 | Terreno en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-291",
+    "id": "TER-351",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4957,7 +5917,7 @@
     "description": "MX$148.500 | 1 habitación 1 baño - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-292",
+    "id": "TER-352",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -4978,7 +5938,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-293"
+    "id": "TER-353"
   },
   {
     "city": "Meoqui",
@@ -4995,7 +5955,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-294"
+    "id": "TER-354"
   },
   {
     "city": "Delicias",
@@ -5008,11 +5968,27 @@
     "description": "MX$145.000 | TERRENOS EN VENTA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-295",
+    "id": "TER-355",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$140",
+    "meters": 0,
+    "price": 140000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1860973034893025/",
+    "description": "MX$140\nTerreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-356"
   },
   {
     "city": "Delicias",
@@ -5025,7 +6001,7 @@
     "description": "MX$140.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-296",
+    "id": "TER-357",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5042,7 +6018,7 @@
     "description": "MX$140.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-297",
+    "id": "TER-358",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5059,7 +6035,7 @@
     "description": "MX$140.000 | 1 habitación 1 baño - Casa",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-298",
+    "id": "TER-359",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5080,7 +6056,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-299"
+    "id": "TER-360"
   },
   {
     "city": "Chihuahua",
@@ -5093,7 +6069,7 @@
     "description": "MX$135.000 | Monoambiente 0 baños - Casa",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-300",
+    "id": "TER-361",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5114,7 +6090,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-301"
+    "id": "TER-362"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$130.000",
+    "meters": 0,
+    "price": 130000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/904975902704074/",
+    "description": "MX$130.000\nSe vende terreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-363"
   },
   {
     "city": "Meoqui",
@@ -5131,7 +6123,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-302"
+    "id": "TER-364"
   },
   {
     "city": "Chihuahua",
@@ -5144,7 +6136,7 @@
     "description": "MX$130.000 | Terrenos cerca de la puerta de chihuahua | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-303",
+    "id": "TER-365",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5161,7 +6153,7 @@
     "description": "MX$130.000 | VENDO TERRENOS AL NORTE EN ABONOS POSESION INMEDIATA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-304",
+    "id": "TER-366",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5182,7 +6174,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-305"
+    "id": "TER-367"
   },
   {
     "city": "Chihuahua",
@@ -5199,7 +6191,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-306"
+    "id": "TER-368"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$123",
+    "meters": 0,
+    "price": 123000,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/3206816376194173/",
+    "description": "MX$123\nTERRENOS EN ABONOS CON VISTA A LA PRESA🏞️\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-369"
   },
   {
     "city": "Aldama",
@@ -5216,7 +6224,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-307"
+    "id": "TER-370"
   },
   {
     "city": "Meoqui",
@@ -5233,7 +6241,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-308"
+    "id": "TER-371"
   },
   {
     "city": "Aquiles Serdán",
@@ -5250,7 +6258,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-309"
+    "id": "TER-372"
   },
   {
     "city": "Chihuahua",
@@ -5263,7 +6271,7 @@
     "description": "MX$123 | Terreno comercial | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-310",
+    "id": "TER-373",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5280,7 +6288,7 @@
     "description": "MX$123 | Se vende terreno frente a carretera delicias a chihuahua a un costado de la cementera | Delicias, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-311",
+    "id": "TER-374",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5297,7 +6305,7 @@
     "description": "MX$123.486 | Terreno en nombre de Dios | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-312",
+    "id": "TER-375",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5314,7 +6322,7 @@
     "description": "US$123 | Se vende terreno | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-313",
+    "id": "TER-376",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5335,7 +6343,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-314"
+    "id": "TER-377"
   },
   {
     "city": "Aquiles Serdán",
@@ -5352,7 +6360,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-315"
+    "id": "TER-378"
   },
   {
     "city": "Delicias",
@@ -5365,7 +6373,7 @@
     "description": "MX$120.000 | Monoambiente 1 baño Townhouse | Hidalgo del Parral, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-316",
+    "id": "TER-379",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5382,7 +6390,7 @@
     "description": "MX$120 | Se vende terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-317",
+    "id": "TER-380",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5403,7 +6411,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-318"
+    "id": "TER-381"
   },
   {
     "city": "Aldama",
@@ -5416,7 +6424,7 @@
     "description": "MX$115.000 | Terrenos Salida Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-319",
+    "id": "TER-382",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5437,7 +6445,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-320"
+    "id": "TER-383"
   },
   {
     "city": "Meoqui",
@@ -5450,7 +6458,7 @@
     "description": "MX$110.000 | 💲 3 terrenos Juntos,solo efectivo | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-321",
+    "id": "TER-384",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5467,7 +6475,7 @@
     "description": "MX$110.000 | 1 habitación 1 baño Casa | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-322",
+    "id": "TER-385",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -5488,7 +6496,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-323"
+    "id": "TER-386"
   },
   {
     "city": "Aldama",
@@ -5505,7 +6513,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-324"
+    "id": "TER-387"
   },
   {
     "city": "Meoqui",
@@ -5522,7 +6530,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-325"
+    "id": "TER-388"
   },
   {
     "city": "Meoqui",
@@ -5539,7 +6547,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-326"
+    "id": "TER-389"
   },
   {
     "city": "Aquiles Serdán",
@@ -5556,7 +6564,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-327"
+    "id": "TER-390"
   },
   {
     "city": "Aquiles Serdán",
@@ -5573,7 +6581,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-328"
+    "id": "TER-391"
   },
   {
     "city": "Aquiles Serdán",
@@ -5590,7 +6598,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-329"
+    "id": "TER-392"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -5607,7 +6615,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-330"
+    "id": "TER-393"
   },
   {
     "city": "Meoqui",
@@ -5624,7 +6632,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-331"
+    "id": "TER-394"
   },
   {
     "city": "Meoqui",
@@ -5641,7 +6649,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-332"
+    "id": "TER-395"
   },
   {
     "city": "Meoqui",
@@ -5658,7 +6666,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-333"
+    "id": "TER-396"
   },
   {
     "city": "Meoqui",
@@ -5675,7 +6683,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-334"
+    "id": "TER-397"
   },
   {
     "city": "Meoqui",
@@ -5692,7 +6700,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-335"
+    "id": "TER-398"
   },
   {
     "city": "Meoqui",
@@ -5709,7 +6717,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-336"
+    "id": "TER-399"
   },
   {
     "city": "Aldama",
@@ -5726,7 +6734,39 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-337"
+    "id": "TER-400"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$78.000",
+    "meters": 0,
+    "price": 78000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2358489684892712/",
+    "description": "MX$78.000\nTerreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-401"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$75.000",
+    "meters": 0,
+    "price": 75000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1431696965773248/",
+    "description": "MX$75.000\nTerreno al norte , Avenida . Venceremos y Rio Danubio\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-402"
   },
   {
     "city": "Chihuahua",
@@ -5743,7 +6783,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-338"
+    "id": "TER-403"
   },
   {
     "city": "Chihuahua",
@@ -5760,7 +6800,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-339"
+    "id": "TER-404"
   },
   {
     "city": "Aldama",
@@ -5777,7 +6817,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-340"
+    "id": "TER-405"
   },
   {
     "city": "Meoqui",
@@ -5794,7 +6834,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-341"
+    "id": "TER-406"
   },
   {
     "city": "Aquiles Serdán",
@@ -5811,7 +6851,39 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-342"
+    "id": "TER-407"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$60.000",
+    "meters": 0,
+    "price": 60000,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/939369682228197/",
+    "description": "MX$60.000\nVenta de terreno\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-408"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 60000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1451185940451114/",
+    "description": "Gratis\nMX$60.000\nTerrenos en abonos\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-409"
   },
   {
     "city": "Aldama",
@@ -5828,7 +6900,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-343"
+    "id": "TER-410"
   },
   {
     "city": "Chihuahua",
@@ -5845,7 +6917,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-344"
+    "id": "TER-411"
   },
   {
     "city": "Chihuahua",
@@ -5862,7 +6934,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-345"
+    "id": "TER-412"
   },
   {
     "city": "Chihuahua",
@@ -5879,7 +6951,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-346"
+    "id": "TER-413"
   },
   {
     "city": "Meoqui",
@@ -5896,7 +6968,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-347"
+    "id": "TER-414"
   },
   {
     "city": "Meoqui",
@@ -5913,7 +6985,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-348"
+    "id": "TER-415"
   },
   {
     "city": "Meoqui",
@@ -5930,7 +7002,39 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-349"
+    "id": "TER-416"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$45.000",
+    "meters": 0,
+    "price": 45000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1121280023659005/",
+    "description": "MX$45.000\n264. 🏭 BODEGA EN RENTA | COMPLEJO INDUSTRIAL SUR\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-417"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$45.000",
+    "meters": 0,
+    "price": 45000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1065505819175528/",
+    "description": "MX$45.000\n264. 🏭 BODEGA EN RENTA | COMPLEJO INDUSTRIAL SUR\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-418"
   },
   {
     "city": "Meoqui",
@@ -5947,7 +7051,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-350"
+    "id": "TER-419"
   },
   {
     "city": "Aldama",
@@ -5964,7 +7068,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-351"
+    "id": "TER-420"
   },
   {
     "city": "Meoqui",
@@ -5981,7 +7085,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-352"
+    "id": "TER-421"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$28.000",
+    "meters": 0,
+    "price": 28000,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1396322152675034/",
+    "description": "MX$28.000\n. TERRENO EN VENTA EN CARRETERA VIA PARRAL\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-422"
   },
   {
     "city": "Chihuahua",
@@ -5998,7 +7118,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-353"
+    "id": "TER-423"
   },
   {
     "city": "Meoqui",
@@ -6015,7 +7135,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-354"
+    "id": "TER-424"
   },
   {
     "city": "Chihuahua",
@@ -6032,7 +7152,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-355"
+    "id": "TER-425"
   },
   {
     "city": "Chihuahua",
@@ -6049,7 +7169,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-356"
+    "id": "TER-426"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6066,7 +7186,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-357"
+    "id": "TER-427"
   },
   {
     "city": "Chihuahua",
@@ -6083,7 +7203,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-358"
+    "id": "TER-428"
   },
   {
     "city": "Aldama",
@@ -6100,7 +7220,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-359"
+    "id": "TER-429"
   },
   {
     "city": "Chihuahua",
@@ -6117,7 +7237,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-360"
+    "id": "TER-430"
   },
   {
     "city": "Chihuahua",
@@ -6134,7 +7254,23 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-361"
+    "id": "TER-431"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$11.600",
+    "meters": 0,
+    "price": 11600,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/4644132435911341/",
+    "description": "MX$11.600\nLlantas nuevas 265/70R17 todo terreno 10capas\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-432"
   },
   {
     "city": "Chihuahua",
@@ -6147,11 +7283,395 @@
     "description": "Recién publicado | MX$1.000 | 🏡 Terrenos campestres y residenciales en Chihuahua y Aldama, apartado desde $1,000 MXN📍 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-362",
+    "id": "TER-433",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
     "created_at": "2026-09-26"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$1.600.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1879739296729284/",
+    "description": "MX$1.600.000\nATENCIÓN INVERSIONISTAS ¡Increíble terreno en Granjas del Valle! 📍\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-434"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "MX$2.700.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1076630205148136/",
+    "description": "MX$2.700.000\n¡ATENCIÓN INVERSIONISTAS! Increíble terreno en venta M. Ocampo! 📍\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-435"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1081392528134179/",
+    "description": "Gratis\nTerreno granjas de sacramento\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-436"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1284730030445795/",
+    "description": "Gratis\nTerreno granjas de sacramento\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-437"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1090109267396430/",
+    "description": "Gratis\nTerreno granjas de sacramento\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-438"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1487584643428964/",
+    "description": "Gratis\nTerreno granjas de sacramento\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-439"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1138781469099696/",
+    "description": "Gratis\nTerreno granjas de sacramento\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-440"
+  },
+  {
+    "city": "Chihuahua",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Chihuahua / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2667718953684828/",
+    "description": "Gratis\nTerreno granjas de sacramento\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-441"
+  },
+  {
+    "city": "Aldama",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2092937451345933/",
+    "description": "Gratis\nTerrenos carretera aldama chihuahua\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-442"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$1.111.111",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1639759681128649/",
+    "description": "MX$1.111.111\n2026 Otroad otros\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-443"
+  },
+  {
+    "city": "Aldama",
+    "title": "Gratis",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1431979048518179/",
+    "description": "Gratis\nBODEGAS Y TERRENOS\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-444"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$4.490.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1649177356789068/",
+    "description": "MX$4.490.000\n2 habitaciones 2 baños Casa\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-445"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$4.400.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1112111118452696/",
+    "description": "MX$4.400.000\n3 habitaciones 3 baños Casa\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-446"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$4.300.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1723112842810935/",
+    "description": "MX$4.300.000\nTERRENO EN VENTA - MISIÓN DEL VALLE\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-447"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$7.150.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1305845735953687/",
+    "description": "MX$7.150.000\n3 habitaciones 3 baños - Casa\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-448"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$3.135.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1640157380937081/",
+    "description": "MX$3.135.000\n🌿🏡 ¡TERRENO PLANO Y LISTO PARA CONSTRUIR EN ALTOZANO COYOTE! 💰 $3,135,000 MXN\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-449"
+  },
+  {
+    "city": "Aldama",
+    "title": "MX$2.100.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aldama / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1774172287120265/",
+    "description": "MX$2.100.000\nGranja rumbo a Aldama\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-450"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$3.200.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1086277623808830/",
+    "description": "MX$3.200.000\nTerreno en venta – Jardines Del Pedregal\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-451"
+  },
+  {
+    "city": "Meoqui",
+    "title": "Terreno en venta",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1536377065175184/",
+    "description": "",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-452"
+  },
+  {
+    "city": "Meoqui",
+    "title": "MX$1.500.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Meoqui / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1624734082692653/",
+    "description": "MX$1.500.000\n1 habitación 1 baño - Townhouse\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-453"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$1.150.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2327804118050259/",
+    "description": "MX$1.150.000\nMonoambiente 0 baños - Townhouse\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-454"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$3.115.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/2006937006674372/",
+    "description": "MX$3.115.000\nTERRENO EN VENTA VALLE ESCONDIDO\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-455"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$1.150.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1411896087544822/",
+    "description": "MX$1.150.000\nSe va como terreno... Ave. Pacheco y Degollado\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-456"
+  },
+  {
+    "city": "Aquiles Serdán / Sta. Eulalia",
+    "title": "MX$27.000.000",
+    "meters": 0,
+    "price": 0,
+    "location_card": "Aquiles Serdán / Sta. Eulalia / Zona",
+    "date": "2026-10-15",
+    "url": "https://www.facebook.com/marketplace/item/1094193553054888/",
+    "description": "MX$27.000.000\nMonoambiente 1 baño Townhouse\nChihuahua, Chih",
+    "source": "Facebook Marketplace",
+    "coordinates": null,
+    "status": "Disponible",
+    "notes": "",
+    "price_per_m2": 0,
+    "id": "TER-457"
   },
   {
     "city": "Chihuahua",
@@ -6168,7 +7688,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-363"
+    "id": "TER-458"
   },
   {
     "city": "Chihuahua",
@@ -6185,7 +7705,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-364"
+    "id": "TER-459"
   },
   {
     "city": "Chihuahua",
@@ -6202,7 +7722,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-365"
+    "id": "TER-460"
   },
   {
     "city": "Chihuahua",
@@ -6219,7 +7739,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-366"
+    "id": "TER-461"
   },
   {
     "city": "Chihuahua",
@@ -6236,7 +7756,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-367"
+    "id": "TER-462"
   },
   {
     "city": "Chihuahua",
@@ -6253,7 +7773,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-368"
+    "id": "TER-463"
   },
   {
     "city": "Chihuahua",
@@ -6270,7 +7790,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-369"
+    "id": "TER-464"
   },
   {
     "city": "Chihuahua",
@@ -6287,7 +7807,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-370"
+    "id": "TER-465"
   },
   {
     "city": "Chihuahua",
@@ -6304,7 +7824,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-371"
+    "id": "TER-466"
   },
   {
     "city": "Chihuahua",
@@ -6321,7 +7841,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-372"
+    "id": "TER-467"
   },
   {
     "city": "Chihuahua",
@@ -6338,7 +7858,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-373"
+    "id": "TER-468"
   },
   {
     "city": "Chihuahua",
@@ -6355,7 +7875,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-374"
+    "id": "TER-469"
   },
   {
     "city": "Chihuahua",
@@ -6372,7 +7892,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-375"
+    "id": "TER-470"
   },
   {
     "city": "Chihuahua",
@@ -6389,7 +7909,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-376"
+    "id": "TER-471"
   },
   {
     "city": "Chihuahua",
@@ -6406,7 +7926,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-377"
+    "id": "TER-472"
   },
   {
     "city": "Chihuahua",
@@ -6423,7 +7943,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-378"
+    "id": "TER-473"
   },
   {
     "city": "Aldama",
@@ -6440,7 +7960,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-379"
+    "id": "TER-474"
   },
   {
     "city": "Aldama",
@@ -6457,7 +7977,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-380"
+    "id": "TER-475"
   },
   {
     "city": "Aldama",
@@ -6474,7 +7994,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-381"
+    "id": "TER-476"
   },
   {
     "city": "Aldama",
@@ -6491,7 +8011,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-382"
+    "id": "TER-477"
   },
   {
     "city": "Delicias",
@@ -6508,7 +8028,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-383"
+    "id": "TER-478"
   },
   {
     "city": "Meoqui",
@@ -6525,7 +8045,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-384"
+    "id": "TER-479"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6542,7 +8062,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-385"
+    "id": "TER-480"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6559,7 +8079,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-386"
+    "id": "TER-481"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6576,7 +8096,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-387"
+    "id": "TER-482"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6593,7 +8113,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-388"
+    "id": "TER-483"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6610,7 +8130,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-389"
+    "id": "TER-484"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6627,7 +8147,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-390"
+    "id": "TER-485"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6644,7 +8164,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-391"
+    "id": "TER-486"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6661,7 +8181,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-392"
+    "id": "TER-487"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6678,7 +8198,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-393"
+    "id": "TER-488"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6695,7 +8215,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-394"
+    "id": "TER-489"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6712,7 +8232,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-395"
+    "id": "TER-490"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6729,7 +8249,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-396"
+    "id": "TER-491"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6746,7 +8266,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-397"
+    "id": "TER-492"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6763,7 +8283,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-398"
+    "id": "TER-493"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6780,7 +8300,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-399"
+    "id": "TER-494"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6797,7 +8317,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-400"
+    "id": "TER-495"
   },
   {
     "city": "Aquiles Serdán / Sta. Eulalia",
@@ -6814,7 +8334,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado en vivo el 2026-10-11",
-    "id": "TER-401"
+    "id": "TER-496"
   },
   {
     "city": "Aldama",
@@ -6831,7 +8351,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-402"
+    "id": "TER-497"
   },
   {
     "city": "Aldama",
@@ -6848,7 +8368,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-403"
+    "id": "TER-498"
   },
   {
     "city": "Aldama",
@@ -6865,7 +8385,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-404"
+    "id": "TER-499"
   },
   {
     "city": "Aldama",
@@ -6882,7 +8402,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-405"
+    "id": "TER-500"
   },
   {
     "city": "Aldama",
@@ -6899,7 +8419,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-406"
+    "id": "TER-501"
   },
   {
     "city": "Aldama",
@@ -6916,7 +8436,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-407"
+    "id": "TER-502"
   },
   {
     "city": "Aldama",
@@ -6933,7 +8453,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-408"
+    "id": "TER-503"
   },
   {
     "city": "Meoqui",
@@ -6950,7 +8470,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-409"
+    "id": "TER-504"
   },
   {
     "city": "Meoqui",
@@ -6967,7 +8487,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-410"
+    "id": "TER-505"
   },
   {
     "city": "Meoqui",
@@ -6984,7 +8504,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-411"
+    "id": "TER-506"
   },
   {
     "city": "Meoqui",
@@ -7001,7 +8521,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-412"
+    "id": "TER-507"
   },
   {
     "city": "Aquiles Serdán",
@@ -7018,7 +8538,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-413"
+    "id": "TER-508"
   },
   {
     "city": "Aquiles Serdán",
@@ -7035,7 +8555,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-414"
+    "id": "TER-509"
   },
   {
     "city": "Aquiles Serdán",
@@ -7052,7 +8572,7 @@
     "coordinates": null,
     "status": "Disponible",
     "notes": "Capturado hoy 09 de Octubre 2026",
-    "id": "TER-415"
+    "id": "TER-510"
   },
   {
     "city": "Chihuahua",
@@ -7065,7 +8585,7 @@
     "description": "MX$1.000 | Terrenos frente a Residenciales Leones🦁 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-416",
+    "id": "TER-511",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7082,7 +8602,7 @@
     "description": "MX$1.200.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-417",
+    "id": "TER-512",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7099,7 +8619,7 @@
     "description": "MX$1.000.000 | Monoambiente 0.5 baños Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-418",
+    "id": "TER-513",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7116,7 +8636,7 @@
     "description": "Gratis | MX$1.000.000 | Terreno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-419",
+    "id": "TER-514",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7133,7 +8653,7 @@
     "description": "Recién publicado | MX$1.590.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-420",
+    "id": "TER-515",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7150,7 +8670,7 @@
     "description": "MX$2.125.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-421",
+    "id": "TER-516",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7167,7 +8687,7 @@
     "description": "MX$50.000 | Terreno en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-422",
+    "id": "TER-517",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7184,7 +8704,7 @@
     "description": "MX$1 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-423",
+    "id": "TER-518",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7201,7 +8721,7 @@
     "description": "MX$1.600.000 | 📍 TERRENO EN VENTA – Col. Centro, Chihuahua | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-424",
+    "id": "TER-519",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7218,7 +8738,7 @@
     "description": "MX$80.000 | Terreno al norte | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-425",
+    "id": "TER-520",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7235,7 +8755,7 @@
     "description": "MX$44.000 | Venta de terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-426",
+    "id": "TER-521",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7252,7 +8772,7 @@
     "description": "MX$1.234 | Ventas de terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-427",
+    "id": "TER-522",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7269,7 +8789,7 @@
     "description": "MX$1 | 1 habitación 1 baño - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-428",
+    "id": "TER-523",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7286,7 +8806,7 @@
     "description": "MX$1.234 | TERRENO EN VENTA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-429",
+    "id": "TER-524",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7303,7 +8823,7 @@
     "description": "MX$2.450.000 | 1 habitación 1 baño - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-430",
+    "id": "TER-525",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7320,7 +8840,7 @@
     "description": "MX$25 | Se vende terreno | Nuevo Casas Grandes, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-431",
+    "id": "TER-526",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7337,7 +8857,7 @@
     "description": "MX$1.600.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-432",
+    "id": "TER-527",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7354,7 +8874,7 @@
     "description": "MX$1.000.000 | Terreno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-433",
+    "id": "TER-528",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7371,7 +8891,7 @@
     "description": "MX$2.450.000 | Venta de terreno altozano | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-434",
+    "id": "TER-529",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7388,7 +8908,7 @@
     "description": "Gratis | MX$100 | Terreno pegado a la carretera Chihuahua a Cuauhtemoc | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-435",
+    "id": "TER-530",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7405,7 +8925,7 @@
     "description": "Recién publicado | MX$2.500 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-436",
+    "id": "TER-531",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7422,7 +8942,7 @@
     "description": "MX$1.390.500 | Monoambiente 0 baños - Casa",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-437",
+    "id": "TER-532",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7439,7 +8959,7 @@
     "description": "MX$1.200.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-438",
+    "id": "TER-533",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7456,7 +8976,7 @@
     "description": "MX$4.460.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-439",
+    "id": "TER-534",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7473,7 +8993,7 @@
     "description": "MX$69.000 | Monoambiente 0 baños - Townhouse | Delicias, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-440",
+    "id": "TER-535",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7490,7 +9010,7 @@
     "description": "MX$4.500.000 | 1 habitación 1 baño - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-441",
+    "id": "TER-536",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7507,7 +9027,7 @@
     "description": "MX$2.400.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-442",
+    "id": "TER-537",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7524,7 +9044,7 @@
     "description": "MX$1.281.000 | 1 habitación 1 baño - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-443",
+    "id": "TER-538",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7541,7 +9061,7 @@
     "description": "MX$100.000 | 1 habitación 1 baño - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-444",
+    "id": "TER-539",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7558,7 +9078,7 @@
     "description": "MX$1.080.000 | Monoambiente 0 baños - Townhouse | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-445",
+    "id": "TER-540",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7575,7 +9095,7 @@
     "description": "MX$3.507.730 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-446",
+    "id": "TER-541",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7592,7 +9112,7 @@
     "description": "MX$1.500 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-447",
+    "id": "TER-542",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7609,7 +9129,7 @@
     "description": "MX$1 | TERRENOS AL NORTE pasando Libramiento Oriente. EXCELENTE UBICACIÓN | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-448",
+    "id": "TER-543",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7626,7 +9146,7 @@
     "description": "MX$93.500 | Oportunidad de tener tu Terreno!!! | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-449",
+    "id": "TER-544",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7643,7 +9163,7 @@
     "description": "MX$6.900.000 | Terreno comercial en Valles de Chihuahua | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-450",
+    "id": "TER-545",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7660,7 +9180,7 @@
     "description": "MX$39 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-451",
+    "id": "TER-546",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7677,7 +9197,7 @@
     "description": "MX$1.080.000 | Monoambiente 1 baño Townhouse | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-452",
+    "id": "TER-547",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7694,7 +9214,7 @@
     "description": "MX$2 | Monoambiente 0 baños - Townhouse",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-453",
+    "id": "TER-548",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7711,7 +9231,7 @@
     "description": "MX$3.115.875 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-454",
+    "id": "TER-549",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7728,7 +9248,7 @@
     "description": "MX$3.900.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-455",
+    "id": "TER-550",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7745,7 +9265,7 @@
     "description": "MX$2 | TERRENO EN VENTA EN 4 MILPAS | Santa Rosalía de Camargo, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-456",
+    "id": "TER-551",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7762,7 +9282,7 @@
     "description": "MX$1.692.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-457",
+    "id": "TER-552",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7779,7 +9299,7 @@
     "description": "Gratis | TERRENO A UN COSTADO DE ESCUELA AGRONOMIA | Delicias, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-458",
+    "id": "TER-553",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7796,7 +9316,7 @@
     "description": "MX$2.560.000 | Monoambiente 1 baño - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-459",
+    "id": "TER-554",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7813,7 +9333,7 @@
     "description": "MX$1.950.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-460",
+    "id": "TER-555",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7830,7 +9350,7 @@
     "description": "Recién publicado | MX$1.234 | Monoambiente 0 baños - Townhouse | Cuauhtémoc, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-461",
+    "id": "TER-556",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7847,7 +9367,7 @@
     "description": "MX$1 | Monoambiente 0 baños - Townhouse | Victoria de Durango (Durango), Dgo",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-462",
+    "id": "TER-557",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7864,7 +9384,7 @@
     "description": "MX$1.200.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-463",
+    "id": "TER-558",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7881,7 +9401,7 @@
     "description": "MX$99 | Terrenos en Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-464",
+    "id": "TER-559",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7898,7 +9418,7 @@
     "description": "MX$60 | Terreno en Venta Labor de Terrazas | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-465",
+    "id": "TER-560",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7915,7 +9435,7 @@
     "description": "Gratis | MX$80 | Vendo terreno con buena ubicación al sur de la ciudad urge venderlo | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-466",
+    "id": "TER-561",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7932,7 +9452,7 @@
     "description": "MX$99 | TERRENOS EN ALDAMA | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-467",
+    "id": "TER-562",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7949,7 +9469,7 @@
     "description": "MX$4.140 | Se vende terrenos por Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-468",
+    "id": "TER-563",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7966,7 +9486,7 @@
     "description": "MX$99 | TERRENOS EN CD ALDAMA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-469",
+    "id": "TER-564",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -7983,7 +9503,7 @@
     "description": "Gratis | Venta de terrenos carretera Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-470",
+    "id": "TER-565",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8000,7 +9520,7 @@
     "description": "MX$1.800.000 | Se venden 2  terrenos carretera Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-471",
+    "id": "TER-566",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8017,7 +9537,7 @@
     "description": "MX$1 | ❇️TERRENOS RESIDENCIALES EN VENTA KM 20 CARR ALDAMA ❇️ | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-472",
+    "id": "TER-567",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8034,7 +9554,7 @@
     "description": "MX$1.100.000 | Se vende TERRENO en  Granjas universitarias | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-473",
+    "id": "TER-568",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8051,7 +9571,7 @@
     "description": "MX$1.600.000 | Terreno con casa | Aldama, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-474",
+    "id": "TER-569",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8068,7 +9588,7 @@
     "description": "MX$2.900.000 | TERRENO CÉNTRICO EN VENTA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-475",
+    "id": "TER-570",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8085,7 +9605,7 @@
     "description": "MX$1.800.000 | 🏡 ¡Casa en venta en Col. Villa Nueva,!💲1,800,000.00 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-476",
+    "id": "TER-571",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8102,7 +9622,7 @@
     "description": "MX$3.200.000 | Casa en venta en granjas | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-477",
+    "id": "TER-572",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8119,7 +9639,7 @@
     "description": "MX$3.240.000 | LAS GRANJAS 1 PLANTA negociable | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-478",
+    "id": "TER-573",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8136,7 +9656,7 @@
     "description": "MX$6.000 | Terrenos financiados | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-479",
+    "id": "TER-574",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8153,7 +9673,7 @@
     "description": "Gratis | Venta de terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-480",
+    "id": "TER-575",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8170,7 +9690,7 @@
     "description": "MX$1.800.000 | Terreno en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-481",
+    "id": "TER-576",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8187,7 +9707,7 @@
     "description": "MX$1 | Terreno en Km 33 y medio a pie de carretera. | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-482",
+    "id": "TER-577",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8204,7 +9724,7 @@
     "description": "MX$100.000 | Terrenos en abonos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-483",
+    "id": "TER-578",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8221,7 +9741,7 @@
     "description": "MX$4.500.000 | TERRENO EN VENTA EN CUMBRES DE DOMINION | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-484",
+    "id": "TER-579",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8238,7 +9758,7 @@
     "description": "Gratis | TERRENOS A LA VENTA🤩 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-485",
+    "id": "TER-580",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8255,7 +9775,7 @@
     "description": "MX$1.000 | Terrenos desde mil mensuales y terrenos a pie de carretera | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-486",
+    "id": "TER-581",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8272,7 +9792,7 @@
     "description": "MX$93.321 | VENTA DE TERRENOS | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-487",
+    "id": "TER-582",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8289,7 +9809,7 @@
     "description": "MX$1.000 | Terrenos económicos desde mil mensuales | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-488",
+    "id": "TER-583",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8306,7 +9826,7 @@
     "description": "MX$1.350.000 | Terreno en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-489",
+    "id": "TER-584",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8323,7 +9843,7 @@
     "description": "Gratis | Terrenos Haciendita (ZONA CANTERA)\nMuy Alta Plusvalía | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-490",
+    "id": "TER-585",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8340,7 +9860,7 @@
     "description": "MX$1 | 1 habitación 1 baño - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-491",
+    "id": "TER-586",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8357,7 +9877,7 @@
     "description": "MX$12 | Terreno camino a carrizalillo mide 222 metros información [hidden information] cuenta título de propiedad | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-492",
+    "id": "TER-587",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8374,7 +9894,7 @@
     "description": "Gratis | ATENCIÓN ! TERRENOS EN VENTA! EN QUINTAS CAROLINAS | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-493",
+    "id": "TER-588",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8391,7 +9911,7 @@
     "description": "MX$6.300.000 | TERRENO CUMBRES DE SAN FRANCISCO | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-494",
+    "id": "TER-589",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8408,7 +9928,7 @@
     "description": "MX$78.000 | Terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-495",
+    "id": "TER-590",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8425,7 +9945,7 @@
     "description": "MX$30 | 3 habitaciones 2 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-496",
+    "id": "TER-591",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8442,7 +9962,7 @@
     "description": "MX$58 | Últimos lotes carr.cuauhtemoc | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-497",
+    "id": "TER-592",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8459,7 +9979,7 @@
     "description": "MX$1.500.000 | 🍀 DOS TERRENOS CONTIGUOS EN VENTA EN PALESTINA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-498",
+    "id": "TER-593",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8476,7 +9996,7 @@
     "description": "MX$1.800.000 | Terreno en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-499",
+    "id": "TER-594",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8493,7 +10013,7 @@
     "description": "MX$100.000 | Venta de terrenos en abonos o de contado financiado a 4 años para más información [hidden information] | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-500",
+    "id": "TER-595",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8510,7 +10030,7 @@
     "description": "Gratis | Terreno a pie de rio | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-501",
+    "id": "TER-596",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8527,7 +10047,7 @@
     "description": "MX$62.500.000 | Monoambiente 1 baño Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-502",
+    "id": "TER-597",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8544,7 +10064,7 @@
     "description": "MX$1.000 | terrenos detras de los panteones de carrizalillo | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-503",
+    "id": "TER-598",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8561,7 +10081,7 @@
     "description": "MX$100.000 | Terrenos en abonos por el arco de santa Eulalia para más información [hidden information] | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-504",
+    "id": "TER-599",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8578,7 +10098,7 @@
     "description": "MX$1 | Km 40 a Juárez. Venta de terrenos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-505",
+    "id": "TER-600",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8595,7 +10115,7 @@
     "description": "MX$1 | Terrenos en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-506",
+    "id": "TER-601",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8612,7 +10132,7 @@
     "description": "MX$6.900.000 | Terreno en Venta Dominion Residencial | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-507",
+    "id": "TER-602",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8629,7 +10149,7 @@
     "description": "MX$1.234 | NOGALOTES GRANDOTES | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-508",
+    "id": "TER-603",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8646,7 +10166,7 @@
     "description": "MX$60.000 | Traspaso terreno carretera aquiles serdan | Aquiles Serdán, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-509",
+    "id": "TER-604",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8663,7 +10183,7 @@
     "description": "US$100.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-510",
+    "id": "TER-605",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8680,7 +10200,7 @@
     "description": "Gratis | TERRENOS  AL NORTE!! | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-511",
+    "id": "TER-606",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8697,7 +10217,7 @@
     "description": "MX$1 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-512",
+    "id": "TER-607",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8714,7 +10234,7 @@
     "description": "MX$75 | MX$90 | Se vende terreno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-513",
+    "id": "TER-608",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8731,7 +10251,7 @@
     "description": "MX$1 | Terreno en venta | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-514",
+    "id": "TER-609",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8748,7 +10268,7 @@
     "description": "MX$44.000 | Terrenos económicos en abonos | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-515",
+    "id": "TER-610",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8765,7 +10285,7 @@
     "description": "MX$2.650.000 | Elegante Granja a la salida a Delicias con alberca | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-516",
+    "id": "TER-611",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8782,7 +10302,7 @@
     "description": "MX$3.150.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-517",
+    "id": "TER-612",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8799,7 +10319,7 @@
     "description": "MX$2.500 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-518",
+    "id": "TER-613",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8816,7 +10336,7 @@
     "description": "MX$1.670.000 | Terreno carretera a Chihuahua!! | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-519",
+    "id": "TER-614",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8833,7 +10353,7 @@
     "description": "MX$3.400.000 | ⭐¡TERRENO EN VENTA! FRACC. CAMPESTRE LAS CAROLINAS | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-520",
+    "id": "TER-615",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8850,7 +10370,7 @@
     "description": "MX$1.290.000 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-521",
+    "id": "TER-616",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8867,7 +10387,7 @@
     "description": "MX$3.190.000 | 2 habitaciones 2 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-522",
+    "id": "TER-617",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8884,7 +10404,7 @@
     "description": "MX$6.400.000 | 3 habitaciones 2,5 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-523",
+    "id": "TER-618",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8901,7 +10421,7 @@
     "description": "MX$49.000 | Terrenos en granjas campestre Santa Lucía, ,,\n.. | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-524",
+    "id": "TER-619",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8918,7 +10438,7 @@
     "description": "MX$1 | TERRENO CAMPESTRE CAMBIO POR UNIDAD | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-525",
+    "id": "TER-620",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8935,7 +10455,7 @@
     "description": "MX$37 | ⭐️🌳 TERRENO EN VENTA | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-526",
+    "id": "TER-621",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8952,7 +10472,7 @@
     "description": "MX$75.000 | 🌿 ¡TU TERRENO CAMPESTRE CERCA DE ALDAMA! 🌿 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-527",
+    "id": "TER-622",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8969,7 +10489,7 @@
     "description": "MX$1 | Venta de Terreno por carretera Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-528",
+    "id": "TER-623",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -8986,7 +10506,7 @@
     "description": "MX$4.200.000 | 2 habitaciones 2 baños Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-529",
+    "id": "TER-624",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9003,7 +10523,7 @@
     "description": "MX$18 | Terreno en venta salida juarez | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-530",
+    "id": "TER-625",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9020,7 +10540,7 @@
     "description": "MX$1 | 📍Se traspasa terreno campestre en Aldama !!! 📍 | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-531",
+    "id": "TER-626",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9037,7 +10557,7 @@
     "description": "MX$95.000 | Terreno campestre | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-532",
+    "id": "TER-627",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9054,7 +10574,7 @@
     "description": "MX$1.200.000 | TERRENO \\ LOTE CAMPESTRE | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-533",
+    "id": "TER-628",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9071,7 +10591,7 @@
     "description": "MX$90 | Terreno+Campestre+en+La+Campana | Culiacán Rosales, Sin",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-534",
+    "id": "TER-629",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9088,7 +10608,7 @@
     "description": "MX$1.200.000 | TERRENO CAMPESTRE EN VENTA FRACC VALLE DORADO | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-535",
+    "id": "TER-630",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9105,7 +10625,7 @@
     "description": "MX$1 | Terreno | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-536",
+    "id": "TER-631",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9122,7 +10642,7 @@
     "description": "MX$49.000 | Monoambiente 0 baños - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-537",
+    "id": "TER-632",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9139,7 +10659,7 @@
     "description": "MX$1.000.000 | Terreno en venta con alberca Salida a Aldama | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-538",
+    "id": "TER-633",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9156,7 +10676,7 @@
     "description": "MX$58.000 | Terrenos Campestres | Arteaga, Coah",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-539",
+    "id": "TER-634",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9173,7 +10693,7 @@
     "description": "MX$1.900.000 | Monoambiente 1 baño - Casa | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-540",
+    "id": "TER-635",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9190,7 +10710,7 @@
     "description": "MX$4.999 | TERRENOS EN ABONOS | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-541",
+    "id": "TER-636",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
@@ -9207,7 +10727,7 @@
     "description": "MX$49 | Monoambiente 0 baños - Townhouse | Chihuahua, Chih",
     "source": "Facebook Marketplace",
     "price_per_m2": 0,
-    "id": "TER-542",
+    "id": "TER-637",
     "coordinates": null,
     "status": "Disponible",
     "notes": "",
